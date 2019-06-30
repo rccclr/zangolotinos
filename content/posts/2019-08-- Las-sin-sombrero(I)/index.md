@@ -2,9 +2,9 @@
 title: Las sin sombrero
 subTitle: Balló, Tània
 category: "seleccionado"
-cover: Las-sin-sombrero.jpg
+cover: Las-sin-sombrero (1).jpg
 ---
-!["Imagen no encontrada"](Las-sin-sombrero.jpg)
+!["Imagen no encontrada"](Las-sin-sombrero (1).jpg)
 **__Seleccionado para el club de agosto de 2019 (Pendiente día)__**
 
 Título | Autor/a | Género | Editor | Traductor |
