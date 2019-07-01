@@ -5,8 +5,8 @@ category: "Recomendado"
 cover: Arenas-movedizas.jpg
 ---
 ![Imagen 1][1] ![Imagen 2][2]
-[1]: Arenas-movedizas.jpg
-[2]: Arenas-movedizas-datos.jpg "Datos"
+[1]: Arenas-movedizas.jpg "Portada"
+[2]: Arenas-movedizas-datos.jpg "Ficha"
 
 |Título|Autor/a|Género|Editor|Traductor|
 |:-----|:------|:-----|:-----|:--------|
