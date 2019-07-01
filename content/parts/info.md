@@ -2,8 +2,4 @@
 title: info
 ---
 
-!Zangolotinos, 
-
-  del mundo!
-
-   !Uníos!
+Zangolotinos. Club de lectura... y más.
