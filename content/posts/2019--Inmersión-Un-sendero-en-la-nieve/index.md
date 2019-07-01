@@ -9,9 +9,9 @@ cover: Inmersión-Un-sendero-en-la-nieve.jpg
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Inmersión (Un sendero en la nieve) | Chukovskaia, Lidia | Narrativa extranjera, Novela contemporánea | Errata naturae | Marta Rebón Rodríguez |
-
-**__Sinopsis__**
-
+***
+|Sinopsis|
+|--------|
 Esta bella historia, de gran simplicidad pero hondo calado, fue calificada por George Steiner como un clásico de la literatura rusa. Un documento excepcional sobre la vida en la Rusia estalinista.
 
 «Si lograba llevar el cielo, la nieve y el aire a mi escritorio, la inmersión sería fácil, enseguida alcanzaría la claridad de visión adecuada».

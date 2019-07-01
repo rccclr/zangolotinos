@@ -10,9 +10,9 @@ cover: Las-sin-sombrero-1.jpg
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Las sin sombrero (I) | Balló, Tània | Historia | Booket | Original en castellano|
-
-**__Sinopsis__**
-
+***
+|Sinopsis|
+|--------|
 Este libro recupera la memoria y los avatares de varias mujeres, artistas y pensadoras de la generación del 27, cuyo legado resulta determinante en la historia de nuestro país, al igual que el de sus compañeros pertenecientes a esa ineludible generación literaria. 
 
 Mujeres que se quitaron el sombrero, ese corsé intelectual que las relegaba al papel de esposas y madres, y participaron sin complejos en la vida intelectual española entre los años veinte y treinta.
