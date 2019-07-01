@@ -18,3 +18,4 @@ A las puertas del invierno de 1809, un soldado escapa de las filas del ejército
 Niños que sueñan, ancianos que no quieren olvidar, hombres y mujeres que soportan unos días en los que todo parece invierno. Pero no todo es lo que parece, porque en esta novela, suma de historias que se mezclan como las hojas de las hayas caídas sobre un sendero, Elvira Valgañón deja entrever que la belleza y piedad son los mejores recursos para hacer de la vida y de la literatura un lugar habitable.
 
 Una obra emocionante de una escritora detallista y esencial, atenta a los sonidos y los silencios de las palabras. Una escritora, Elvira Valgañón, que está aún por descubrir por el gran público, y cuya novela nos sentimos particularmente orgullosos de publicar.
+***
