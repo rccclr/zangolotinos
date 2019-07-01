@@ -19,6 +19,7 @@ const Contact = () => {
         <PageHeader title="Contacto" />
         <Content>
           Si quieres saber más de nosotros, puedes escribirnos a : <Obfuscate email={config.contactEmail} />
+        <Content>
       </Article>
     </Main>
   );
