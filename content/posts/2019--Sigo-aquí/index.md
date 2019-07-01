@@ -17,3 +17,4 @@ Estos son algunos de los episodios –sucedidos en distintos momentos de su vida
 «Todo el mundo debería leerlo (…) Puedo contar con los dedos de una mano los libros que me han hecho llorar, Sigo aquí es uno de ellos.» Claire Kilroy (The Irish Times)
 «Nunca había leído un libro sobre la muerte que me haya hecho sentirme tan viva. Una lectura adictiva que te para el corazón.» Tracy Chevalier
 «Un recordatorio estremecedor y penetrante de cuán cerca estamos de lo que podría haber pasado pero no pasó.» Dani Shapiro (The New York Times)
+***
