@@ -3,7 +3,7 @@ const colors = require("../../src/styles/colors");
 module.exports = {
   siteTitle: "Zangolotinos - Club de lectura", // <title>
   shortSiteTitle: "Zangolotinos - Club de lectura", // <title> ending for posts and pages
-  siteDescription: "Aquí se reunen todos los zangolotinos.",
+  siteDescription: "Club con periodicidad mensual",
   siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
@@ -22,11 +22,11 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "rasda1949@gmail.com",
+  contactEmail: "zangolotinos.club.lectura@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/rccclr" },
-    { name: "twitter", url: "https://twitter.com/rccclr" },
-    { name: "facebook", url: "https://facebook.com/raimundo.carlos.796" }
+    { name: "github", url: "" },
+    { name: "twitter", url: "" },
+    { name: "facebook", url: "" }
   ]
 };
