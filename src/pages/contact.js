@@ -7,7 +7,7 @@ import Main from "../components/Main";
 import Article from "../components/Main/Article";
 import PageHeader from "../components/Page/PageHeader";
 import Content from "../components/Main/Content";
-import Form from "../components/ContactForm";
+// import Form from "../components/ContactForm";
 import config from "../../content/meta/config";
 
 const styles = theme => ({});
@@ -21,7 +21,7 @@ const Contact = () => {
           Si quieres saber más de nosotros, puedes escribirnos a : <Obfuscate email={config.contactEmail} /> o usa el siguiente
           formulario.
         </Content>
-        <Form />
+       // <Form />
       </Article>
     </Main>
   );
