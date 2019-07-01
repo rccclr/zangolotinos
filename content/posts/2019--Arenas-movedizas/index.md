@@ -7,7 +7,7 @@ cover: Arenas-movedizas.jpg
 !["Imagen no encontrada"](Arenas-movedizas.jpg)
 
 | Título | Autor/a | Género | Editor | Traductor |
-| ------ | ------- | ------ | ------ | --------- |
+| :----- | :------ | :----- | :----- | :-------- |
 | Arenas movedizas | Mankell, Henning | Narrativa extranjera, Novela contemporánea, literaria | Tusquets | Carmen Montes Cano |
 
 | Sinopsis |
