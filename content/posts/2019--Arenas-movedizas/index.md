@@ -2,9 +2,9 @@
 title: Arenas movedizas
 subTitle: Mankell, Henning
 category: "Recomendado"
-cover: Arenas-movedizas.jpg
+cover: Arenas-movedizas.jpg, Arenas-movedizas-datos.jpg
 ---
-!["Imagen no encontrada"](Arenas-movedizas.jpg)
+!["Imagen no encontrada"](Arenas-movedizas.jpg, Arenas-movedizas-datos.jpg)
 
 |Título|Autor/a|Género|Editor|Traductor|
 |:-----|:------|:-----|:-----|:--------|
