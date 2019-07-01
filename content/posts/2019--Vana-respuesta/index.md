@@ -17,3 +17,4 @@ Pocas páginas sobre la iniciación a la vida hemos leído como éstas. El terri
 Aunque ésta fue la primera novela de Rosamond Lehmann, posiblemente sea una de sus mejores obras. Y uno de los grandes textos de la narrativa british de los años veinte y treinta.
 «Vana respuesta te absorberá por entero,  transformando tu vida íntima durante el tiempo en que la leas». Jonathan Coe
 Enmarcada en la agitación sociocultural de los años 20 británicos, Vana respuesta apareció de manera fulgurante como la presentación oficial de una narradora fabulosa. En ella, Rosamond Lehmann presenta a la joven Judith Earle, a cuya piel se pega desde la más tierna infancia. En el primer tercio del libro, pues, la narración se sostiene alrededor de los años de descubrimiento de la joven Judith, que vive al amparo de una familia de alta sociedad y trata de expandir su círculo de amistades a través de sus cinco primos.
+***
