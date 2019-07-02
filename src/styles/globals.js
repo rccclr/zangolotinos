@@ -349,42 +349,42 @@ export default {
       boxShadow: "0 0 10px 52px rgba(255,255,255,.8)"
     },
     tbody: {
-        display: table-row-group,
-        border-color: inherit
+        display: "table-row-group",
+        border-color: "inherit"
     },
     table: {
-        margin: 10px 0 15px 0,
-        border-collapse: collapse,
+        margin: "10px 0 15px 0",
+        border-collapse: "collapse",
         border-spacing: 0,
-        display: block,
-        width: 100%,
-        overflow: auto,
-        word-break: normal,
-        word-break: keep-all
+        display: "block",
+        width: "100%",
+        overflow: "auto",
+        word-break: "normal",
+        word-break: "keep-all"
     },
     thead: {
-        display: table-header-group,
-        border-color: inherit
+        display: "table-header-group",
+        border-color: "inherit"
     },
     th: {
-        color: #000,
-        font-weight: bold,
-        text-align: -internal-center,
-        display: table-cell,
-        vertical-align: inherit,
-        border: 1px solid #d6d6d6,
-        padding: 6px 13px
+        color: "#000",
+        font-weight: "bold",
+        text-align: "-internal-center",
+        display: "table-cell",
+        vertical-align: "inherit",
+        border: "1px solid #d6d6d6",
+        padding: "6px 13px"
     },
     tr: {
-        display: table-row,
-        vertical-align: inherit,
-        border-color: inherit
+        display: "table-row",
+        vertical-align: "inherit",
+        border-color: "inherit"
     },
     td: {
-        border: 1px solid #d6d6d6,
-        padding: 6px 13px,
-        display: table-cell,
-        vertical-align: inherit
+        border: "1px solid #d6d6d6",
+        padding: "6px 13px",
+        display: "table-cell",
+        vertical-align: "inherit"
     },    
     body: {
       margin: 0,
