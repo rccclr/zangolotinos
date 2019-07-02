@@ -2,9 +2,9 @@
 title: Arenas movedizas Test
 subTitle: Mankell, Henning
 category: "Recomendado"
-cover: Arenas-movedizas-con-ficha.jpg
+cover: Arenas-movedizas.jpg
 ---
-!["Imagen no encontrada Portada"](Arenas-movedizas.jpg)
+!["Imagen no encontrada Portada"](Arenas-movedizas-con-ficha)
 
 ***
 |Sinopsis|
