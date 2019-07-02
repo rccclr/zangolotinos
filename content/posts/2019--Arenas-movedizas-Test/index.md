@@ -4,7 +4,7 @@ subTitle: Mankell, Henning
 category: "Recomendado"
 cover: Arenas-movedizas.jpg
 ---
-!["Imagen no encontrada Portada"](Arenas-movedizas-con-ficha)
+!["Imagen no encontrada Portada"](Arenas-movedizas-con-ficha.jpg)
 
 ***
 |Sinopsis|
