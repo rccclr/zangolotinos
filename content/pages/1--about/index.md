@@ -2,10 +2,10 @@
 title: Asistentes habituales
 ---
 
-* A. P.
-* F. M.
-* M. C.
-* M. P.
-* M. A.
-* P. E.
-* R. S.
+* Ana P.
+* Francisco M.
+* Maricarmen G.
+* María P.
+* Miguel Ángel G.
+* Pilar E.
+* Ramón S.
