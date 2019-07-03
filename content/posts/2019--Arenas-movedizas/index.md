@@ -5,29 +5,33 @@ category: "Recomendado"
 cover: Arenas-movedizas.jpg
 ---
 <table>
-	<tr><td><p><img src="Arenas-movedizas.jpg" alt="&quot;Imagen no encontrada&quot;" /></p></td>
-	<td>
-    <table>
-    <thead>
-        <tr>
-        <th style="text-align:left">Título</th>
-        <th style="text-align:left">Autor/a</th>
-        <th style="text-align:left">Género</th>
-        <th style="text-align:left">Editor</th>
-        <th style="text-align:left">Traductor</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td style="text-align:left">Arenas movedizas</td>
-        <td style="text-align:left">Mankell, Henning</td>
-        <td style="text-align:left">Narrativa extranjera, Novela contemporánea, literaria</td>
-        <td style="text-align:left">Tusquets</td>
-        <td style="text-align:left">Carmen Montes Cano</td>
-        </tr>
-    </tbody>
-    </table>
-    </td></tr>
+	<tr>
+        <td>
+            <img src="Arenas-movedizas.jpg"/>
+        </td>
+        <td>
+            <table>
+            <thead>
+                <tr>
+                <th style="text-align:left">Título</th>
+                <th style="text-align:left">Autor/a</th>
+                <th style="text-align:left">Género</th>
+                <th style="text-align:left">Editor</th>
+                <th style="text-align:left">Traductor</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td style="text-align:left">Arenas movedizas</td>
+                <td style="text-align:left">Mankell, Henning</td>
+                <td style="text-align:left">Narrativa extranjera, Novela contemporánea, literaria</td>
+                <td style="text-align:left">Tusquets</td>
+                <td style="text-align:left">Carmen Montes Cano</td>
+                </tr>
+            </tbody>
+            </table>
+        </td>
+    </tr>
 </table>
 
 |Sinopsis|
