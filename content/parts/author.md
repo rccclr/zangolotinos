@@ -2,4 +2,4 @@
 title: author
 ---
 
-RC y RS.
+Raimundo C. y Ramón S.
