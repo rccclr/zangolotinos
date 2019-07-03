@@ -37,6 +37,25 @@ const styles = theme => ({
     "& h3": {
       fontSize: `${theme.main.fonts.contentHeading.h3Size}em`
     },
+    "& table": {  
+      color: "#333",
+      "font-family": "Helvetica, Arial, sans-serif", 
+      width: "640px", 
+      "border-collapse": "collapse", 
+      "border-spacing": 0 
+    },
+    "& td, th": { 
+        border: "1px solid #CCC", 
+        height: "30px"
+    }, 
+    "& th": {  
+        background: "#F3F3F3", 
+        "font-weight": "bold" 
+    },
+    "& td": {  
+        background: "#FAFAFA",
+        "text-align": "center"
+    },
     "& p": {
       margin: "0 0 1.5em 0",
       fontWeight: 400
