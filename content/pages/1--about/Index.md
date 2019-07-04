@@ -1,5 +1,5 @@
 ---
-title: Asistentes habituales
+title: Junta directiva
 ---
 
 | Negociado | Encargado del negociado |
@@ -10,5 +10,5 @@ title: Asistentes habituales
 | Salud mental | María P. |
 | Relaciones públicas | Miguel Ángel G. |
 | Agencia de viajes | Pilar E. |
+| Informática | Raimundo C. |
 | Secretario | Ramón S. |
-| --------- | ----------------------- |
