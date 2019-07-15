@@ -1,9 +1,10 @@
 ---
 title: Las sin sombrero
-subTitle: Ballo, Tania (../Autores/FabriceHadjadj/)
+subTitle: Ballo, Tania
 category: "seleccionado"
 cover: Las-sin-sombrero-1.jpg
 ---
+Conoce quién es [Ballo, Tania] (../Autores/FabriceHadjadj/)
 !["Imagen no encontrada"](Las-sin-sombrero-1.jpg)
 **__Seleccionado para el club de agosto de 2019 (Pendiente día)__**
 
@@ -22,7 +23,4 @@ Entre ellas destacan escritoras, artistas plásticas, dramaturgas y pensadoras: 
 Mujeres libres y rompedoras también en sus vidas privadas, apasionadas y apasionantes, que anticiparon, e hicieron posible, a las mujeres de hoy, a pesar del zarpazo de la Guerra Civil que acabó con tantos sueños de libertad e igualdad.
 
 La historia merece ser contada entera.
-
-Conoce quién es [Ballo, Tania] (../Autores/FabriceHadjadj/)
-
 ***
