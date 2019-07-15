@@ -30,17 +30,19 @@ const InfoMenu = props => {
     <nav className={classes.infoMenu}>
       {pages.map((page, i) => {
         const { fields, frontmatter } = page.node;
-        return (
-          <Link
-            key={fields.slug}
-            to={fields.slug}
-            onClick={linkOnClick}
-            className={classes.link}
-            data-shape="closed"
-          >
-            {frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title}
-          </Link>
-        );
+        if (fields.slug.includes('Index')) {
+          return (
+            <Link
+              key={fields.slug}
+              to={fields.slug}
+              onClick={linkOnClick}
+              className={classes.link}
+              data-shape="closed"
+            >
+              {frontmatter.menuTitle ? frontmatter.menuTitle : frontmatter.title}
+            </Link>
+          );
+        }
       })}
       <Link to="/contact/" onClick={linkOnClick} className={classes.link} data-shape="closed">
         Contacto

@@ -22,4 +22,7 @@ Entre ellas destacan escritoras, artistas plásticas, dramaturgas y pensadoras: 
 Mujeres libres y rompedoras también en sus vidas privadas, apasionadas y apasionantes, que anticiparon, e hicieron posible, a las mujeres de hoy, a pesar del zarpazo de la Guerra Civil que acabó con tantos sueños de libertad e igualdad.
 
 La historia merece ser contada entera.
+
+Conoce quién es [Ballo, Tania] (../Autores/FabriceHadjadj/)
+
 ***
