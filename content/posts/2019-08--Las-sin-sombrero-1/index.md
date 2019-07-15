@@ -1,6 +1,6 @@
 ---
 title: Las sin sombrero
-subTitle: (../Autores/FabriceHadjadj/)
+subTitle: [Ballo, Tania] (../Autores/FabriceHadjadj/)
 category: "seleccionado"
 cover: Las-sin-sombrero-1.jpg
 ---
