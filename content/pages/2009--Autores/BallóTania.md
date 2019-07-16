@@ -1,0 +1,19 @@
+---
+title: Balló, Tania
+menuTitle: Balló, Tania
+---
+***
+### Balló, Tania - 1977 - Española (Barcelona)
+!["Imagen no encontrada"](TaniaBalló.jpg)       
+Balló estudió en el Centre d’Estudis Cinematogràfics de Catalunya (CECC) y realizó el posgrado sobre Documental, Investigación y Desarrollo de la Universidad de Nueva York.1​ En 2011, realizó el curso de especialista en Historia y Estética de la Cinematografía de la Universidad de Valladolid y el Taller de Documental de Televisión Española.2​
+
+En 2003, con el colectivo de realizadores "Discusión 14", firmó el documental 200 Km. sobre la marcha de los trabajadores despedidos de Sintel a Madrid, que fue seleccionado por el Festival de San Sebastián, el Festival de Cine de España de Toulouse, el Festival de Bogotá y el Festival Internacional de San Francisco.3​4​ Dos años después, en 2005, trabajó como directora de producción en otra obra colectiva: el largometraje Entre el dictador y yo, en la que seis directores realizaron una pieza de nueve minutos sobre su recuerdo personal de la figura del general Francisco Franco.5​6​
+
+Como productora, en 2012 Balló fundó junto a Serrana Torres Intropía Media, empresa responsable de Las Sinsombrero.7​ Posteriormente, fundó también Nina Produccions para desarrollar proyectos de impacto, como el documental Milicianes sobre el batallón femenino de Mallorca durante la guerra civil española, en una multiplicidad de formatos.8​
+
+En 2013, Balló fue productora delegada en el largometraje argentino de ficción Infancia clandestina del director Benjamín Ávila. La película está protagonizada por Ernesto Alterio, Natalia Oreiro, César Troncoso, Cristina Banegas y Teo Gutiérrez Romero, y contó con la coproducción de España y Brasil. Se estrenó en el Festival de Cannes en la sección Quincena de Realizadores,9​ y estuvo nominada a los Premios Goya como Mejor Película Hispanoamericana.10​ Dos años después y junto a Serrana Torres y Manuel Jiménez-Núñez, codirigió y produjo el webdoc Las Sinsombrero en colaboración con Televisión Española.11​12​13​ El objetivo de este proyecto era recuperar, divulgar y perpetuar el legado de las artistas olvidadas de la Generación del 27 conocidas como Las Sinsombrero, y tras su éxito, Balló publicó en 2016 el libro Las Sinsombrero. Sin ellas la historia no está completa editado por el Grupo Planeta.14​15​
+
+En 2016, produjo Oleg y las raras artes,16​ junto a Serrana Torres y Marta Andreu, un documental dirigido por el cineasta Andrés Duque sobre el pianista ruso Oleg Karavaichuk. El protagonista de la película es un excéntrico, sensible y prodigioso personaje que tocó el piano para Stalin y compuso bandas sonoras para películas y obras de teatro. Ese año se estrenó en la Sección Oficial Voices del Festival Internacional de Cine de Rotterdam en los Países Bajos y obtuvo el premio a la Mejor Película en la 10ª Edición del Festival Punto de Vista de Navarra.17​18​ Al año siguiente, en 2017, editó junto al historiador Gonzalo Berguer Querido diario: hoy ha empezado la guerra, un libro que saca a la luz los diarios escritos durante la guerra civil española de la joven barcelonesa Pilar Duaygües Nebot.19​ También en 2017 dirigió y escribió el cortometraje Mamáguerra que muestra la guerra civil española desde la perspectiva de la maternidad recogida en el diario de Carmen Manso.20​
+
+En 2018, Balló comisarió junto con Gonzalo Berguer la muestra No pasarán, organizada por la Oficina de Derechos Humanos y Memoria del Ayuntamiento de Madrid y dedicada a los madrileños que se enfrentaron a los franquistas cuando el Gobierno de la Segunda República abandonó la capital en 1936.21​
+***
