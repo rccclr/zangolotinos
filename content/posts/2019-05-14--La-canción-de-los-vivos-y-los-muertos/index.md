@@ -4,6 +4,7 @@ subTitle: Ward, Jesmyn
 category: "seleccionado"
 cover: La-canción-de-los-vivos-y-los-muertos.jpg
 ---
+Conoce quién es [Ward, Jesmyn] (../Autores/WardJesmyn/)
 !["Imagen no encontrada"](La-canción-de-los-vivos-y-los-muertos.jpg)
 **__Seleccionado para el club del 14/5/2019__**
 

@@ -4,6 +4,7 @@ subTitle: Valgañon, Elvira
 category: "seleccionado"
 cover: Invierno.jpg
 ---
+Conoce quién es [Valgañon, Elvira] (../Autores/ValgañonElvira/)
 !["Imagen no encontrada"](Invierno.jpg)
 **__Seleccionado para el club del 14/5/2019__**
 
