@@ -4,13 +4,13 @@ module.exports = {
   siteTitle: "Zangolotinos - Club de lectura", // <title>
   shortSiteTitle: "Zangolotinos - Club de lectura", // <title> ending for posts and pages
   siteDescription: "Club con periodicidad mensual",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteUrl: "zangolotinos.es",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
   authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorTwitterAccount: "rccclr",
   // info
   infoTitle: "Zangolotinos",
   infoTitleNote: "Club de lectura",
@@ -25,8 +25,8 @@ module.exports = {
   contactEmail: "zangolotinos.club.lectura@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "" },
-    { name: "twitter", url: "" },
-    { name: "facebook", url: "" }
+    { name: "github", url: "https://github.com/rccclr/zangolotinos" },
+    { name: "twitter", url: "https://twitter.com/rccclr" },
+    { name: "facebook", url: "https://www.facebook.com/groups/359571744729090" }
   ]
 };
