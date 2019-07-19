@@ -4,12 +4,12 @@ module.exports = {
   siteTitle: "Zangolotinos - Club de lectura", // <title>
   shortSiteTitle: "Zangolotinos - Club de lectura", // <title> ending for posts and pages
   siteDescription: "Club con periodicidad mensual",
-  siteUrl: "zangolotinos.es",
+  siteUrl: "http://zangolotinos.es",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
+  authorName: "rccclr",
   authorTwitterAccount: "rccclr",
   // info
   infoTitle: "Zangolotinos",
