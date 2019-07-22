@@ -1,7 +1,7 @@
 ---
 title: Preguntas frecuentes
 ---
-***
+
 |Periodicidad del club|
 |---------------------|
 Lo habitual es que nos una vez por mes.
