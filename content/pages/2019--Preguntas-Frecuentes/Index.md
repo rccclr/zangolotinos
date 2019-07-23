@@ -9,7 +9,7 @@ Lo habitual es que nos una vez por mes.
 |---------------------|
 Empezamos a las 19:30 y la duración, aunque puede variar, suele ser de dos horas.  
 
-|Fecha de ada reunión|
+|Fecha de cada reunión|
 |---------------------|
 La intención es hacerlo el primer miércoles de cada mes pero puede variar en base a la posibilidad de asistenta de la mayoría de los componentes habituales del grupo.  
 
