@@ -2,10 +2,10 @@
 title: Los senderos del mar
 subTitle: Belmonte, María
 category: "seleccionado"
-cover: Los-senderos-del-mar.jpg
+cover: Los-senderos-del-mar-5cm.jpg
 ---
 Conoce quién es [Belmonte, María] (../Autores/BelmonteMaría/)
-!["Imagen no encontrada"](Los-senderos-del-mar.jpg)
+!["Imagen no encontrada"](Los-senderos-del-mar-5cm.jpg)
 **__Seleccionado para el club del 14/5/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
