@@ -2,10 +2,10 @@
 title: La canción de los vivos y los muertos
 subTitle: Ward, Jesmyn
 category: "seleccionado"
-cover: La-canción-de-los-vivos-y-los-muertos.jpg
+cover: La-canción-de-los-vivos-y-los-muertos-256.jpg
 ---
 Conoce quién es [Ward, Jesmyn] (../Autores/WardJesmyn/)
-!["Imagen no encontrada"](La-canción-de-los-vivos-y-los-muertos.jpg)
+!["Imagen no encontrada"](La-canción-de-los-vivos-y-los-muertos-256.jpg)
 **__Seleccionado para el club del 14/5/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
