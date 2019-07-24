@@ -16,11 +16,7 @@ menuTitle: Autores
 
 ***
 ### Stern, Richard - 1928 - Estadounidense - Nueva York 
-!["Imagen no encontrada"](SternRichard.jpg)  
-
-***
-### Valgañón, Elvira - 1977 - Española - Logroño        
-!["Imagen no encontrada"](ValgañónElvira.jpg)                            
+!["Imagen no encontrada"](SternRichard.jpg)                    
 
 ***
 ### Ward, Jesmyn - 1977 - Estadounidense
