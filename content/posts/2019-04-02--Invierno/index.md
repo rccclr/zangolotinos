@@ -2,10 +2,10 @@
 title: Invierno
 subTitle: Valgañon, Elvira
 category: "seleccionado"
-cover: Invierno.jpg
+cover: Invierno-5cm.jpg
 ---
 Conoce quién es [Valgañon, Elvira] (../Autores/ValgañónElvira/)
-!["Imagen no encontrada"](Invierno.jpg)
+!["Imagen no encontrada"](Invierno-5cm.jpg)
 **__Seleccionado para el club del 14/5/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
