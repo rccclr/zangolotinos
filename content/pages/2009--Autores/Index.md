@@ -1,7 +1,7 @@
 ---
 title: Autores
-menuTitle: Autores
 ---
+
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
@@ -21,5 +21,3 @@ menuTitle: Autores
 ***
 ### Ward, Jesmyn - 1977 - Estadounidense
 !["Imagen no encontrada"](WardJesmyn.jpg)       
-
-***
