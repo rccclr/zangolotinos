@@ -5,7 +5,7 @@ menuTitle: Autores
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
-Conoce quién es [Hadjadj, Fabrice] (../HaderlapMaja.jpg/)
+Conoce quién es [Hadjadj, Fabrice] (../HaderlapMaja/)
 ***
 ### Hadjadj, Fabrice - 1971 - Francés - Nanterre
 !["Imagen no encontrada"](HadjadjFabrice.jpg)
