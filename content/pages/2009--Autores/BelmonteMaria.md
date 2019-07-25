@@ -3,7 +3,7 @@ title: Belmonte, María
 menuTitle: Belmonte, María
 ---
 ### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
-!["Imagen no encontrada"](BelmonteMaría.jpg)       
+!["Imagen no encontrada"](BelmonteMaria.jpg)       
 María Belmonte Barrenechea nació en Bilbao. Es doctora en Antropología, ejerce de traductora e intérprete. Vive en Cataluña, en una zona de vides frente al Mediterráneo. “Peregrinos de la belleza. Viajeros por Italia y Grecia” es su primer libro. Ha tardado en escribirlo casi una década. Rememora a nueve escritores que han sido sus mentores en el descubrimiento del Mediterráneo y la cultura grecorromana. Se ha metido en su piel e incluso ha seguido sus pasos. Con la excusa de su escritura, se ha pegado unos inolvidables periplos por Italia y Grecia.
 
 

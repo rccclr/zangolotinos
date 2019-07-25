@@ -2,6 +2,10 @@
 title: Autores
 menuTitle: Autores
 ---
+*** HaderlapMaja.jpg
+## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
+!["Imagen no encontrada"](HaderlapMaja.jpg)
+Conoce quién es [Hadjadj, Fabrice] (../HaderlapMaja.jpg/)
 ***
 ### Hadjadj, Fabrice - 1971 - Francés - Nanterre
 !["Imagen no encontrada"](HadjadjFabrice.jpg)
@@ -16,7 +20,7 @@ Conoce quién es [O'Farrel, Maggie] (../OFarrelMaggie/)
 Conoce quién es [Stern, Richard] (../SternRichard/)
 ***
 ### Valgañón, Elvira - 1977 - Española - Logroño        
-!["Imagen no encontrada"](ValgañónElvira.jpg)                            
+!["Imagen no encontrada"](ValgañonElvira.jpg)                            
 Conoce quién es [Valgañón, Elvira] (../ValgañónElvira/)
 ***
 ### Ward, Jesmyn - 1977 - Estadounidense

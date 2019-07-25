@@ -4,7 +4,7 @@ menuTitle: Balló, Tania
 ---
 ***
 ### Balló, Tania - 1977 - Española (Barcelona)
-!["Imagen no encontrada"](BallóTania.jpg)       
+!["Imagen no encontrada"](BalloTania.jpg)       
 Balló estudió en el Centre d’Estudis Cinematogràfics de Catalunya (CECC) y realizó el posgrado sobre Documental, Investigación y Desarrollo de la Universidad de Nueva York.1​ En 2011, realizó el curso de especialista en Historia y Estética de la Cinematografía de la Universidad de Valladolid y el Taller de Documental de Televisión Española.2​
 
 En 2003, con el colectivo de realizadores "Discusión 14", firmó el documental 200 Km. sobre la marcha de los trabajadores despedidos de Sintel a Madrid, que fue seleccionado por el Festival de San Sebastián, el Festival de Cine de España de Toulouse, el Festival de Bogotá y el Festival Internacional de San Francisco.3​4​ Dos años después, en 2005, trabajó como directora de producción en otra obra colectiva: el largometraje Entre el dictador y yo, en la que seis directores realizaron una pieza de nueve minutos sobre su recuerdo personal de la figura del general Francisco Franco.5​6​

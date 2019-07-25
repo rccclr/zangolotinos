@@ -2,9 +2,9 @@
 title: Sigo aquí
 subTitle: O'Farrel, Maggie
 category: "Recomendado"
-cover: Sigo-aquí.jpg
+cover: Sigo-aqui.jpg
 ---
-!["Imagen no encontrada"](Sigo-aquí.jpg)
+!["Imagen no encontrada"](Sigo-aqui.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
