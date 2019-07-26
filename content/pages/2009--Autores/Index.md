@@ -3,13 +3,13 @@ title: Autores
 menuTitle: Autores
 ---
 ***
-### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
-!["Imagen no encontrada"](BelmonteMaria.jpg)
-Conoce quién es [Belmonte, María] (../BelmonteMaria.jpg/)
-***
 ## Balló, Tania - 1977 - Española (Barcelona)
 !["Imagen no encontrada"](BalloTania.jpg)
 Conoce quién es [Balló, Tania] (../BalloTania.jpg/)
+***
+### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
+!["Imagen no encontrada"](BelmonteMaria.jpg)
+Conoce quién es [Belmonte, María] (../BelmonteMaria.jpg/)
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
@@ -35,11 +35,11 @@ Conoce quién es [Stern, Richard] (../SternRichard/)
 !["Imagen no encontrada"](ValgañonElvira.jpg)                            
 Conoce quién es [Valgañón, Elvira] (../ValgañónElvira/)
 ***
-### Ward, Jesmyn - 1977 - Estadounidense
-!["Imagen no encontrada"](WardJesmyn.jpg)       
-Conoce quién es [Ward, Jesmyn] (../WardJesmyn/)
-***
 ### Zgustová, Monika - 1957 - Checo-Española (Praga)
 !["Imagen no encontrada"](ZgustovaMonika.jpg)       
 Conoce quién es [Ward, Jesmyn] (../ZgustovaMonika/)
+***
+### Ward, Jesmyn - 1977 - Estadounidense
+!["Imagen no encontrada"](WardJesmyn.jpg)       
+Conoce quién es [Ward, Jesmyn] (../WardJesmyn/)
 ***
