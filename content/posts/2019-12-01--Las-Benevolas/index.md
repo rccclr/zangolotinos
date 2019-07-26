@@ -45,20 +45,4 @@ Las Benévolas está dividido en siete capítulos, cada uno con el nombre de una
 |--------|
 Maximilian Aue
 Es un ex oficial de las SS nazis. El libro está escrito como sus memorias. La madre de Aue era de la Alsacia francesa y su padre, que los abandonó y desapareció de su vida en 1921 era alemán. La madre de Aue vuelve a casarse con un francés, Aristide Moreau, con el que Aue no llega a llevarse bien en ningún momento. Tras una niñez en Alemania y una adolescencia en Francia, donde asistirá al Instituto de Estudios Políticos de París, se desplaza a la universidad alemana para estudiar Derecho. Aue es un intelectual culto, con una buena educación y que ama la música clásica. Con un doctorado en Derecho, habla con fluidez alemán, francés, griego y latín. Es homosexual, lo que le acarreará serios problemas en la homófoba sociedad nazi.
-
-Familia de Aue
-Una Aue/Frau von Üxkull
-Es la hermana gemela de Aue que le provoca un incestuoso deseo. Está casada con Von Üxkull, y aunque aparece muy escasamente en persona, domina la imaginación de Aue, particularmente en lo que se refiere a las fantasías sexuales. Vive con su marido en Pomerania, pero un largo periodo de la novela aparece viviendo en Suiza con él. Como su marido, es crítica con el régimen Nazi.
-
-Berndt Von Üxküll
-El marido de Una Aue es un terrateniente (Junker) parapléjico de Pomerania. Un veterano de la Primera Guerra Mundial que luchó junto al padre de los Aue en el Freikorps. Es un compositor que se ha mantenido a distancia de los nazis. Su nombre probablemente hace referencia a Nikolaus Graf von Üxkull-Gyllenband, un resistente anti-nazi, tío de von Stauffenberg.
-
-Heloïse Aue/Heloïse Moreau
-Es la madre de Aue que, creyendo que su primer marido había muerto, se volvió a casar, esta vez con Aristide Moreau. Max no ha aceptado la muerte de su padre y no ha perdonado a su madre por el segundo matrimonio.
-
-Aristide Moreau
-El padrastro de Max. Hay vagas referencias al hecho de que estuviera ligado con la Resistencia francesa. Moreau es también el nombre del “héroe” de La educación sentimental de Flaubert, un libro que Aue lee más adelante en la novela. En francés, el nombre Aristide recuerda a ‘’Atrides’’,8 el nombre dado a los descendientes de Atreus. Uno de sus hijos es Agamenón, presente en la ‘’Orestíada’’.
-
-Los gemelos Tristán y Orlando
-Son dos misteriosos gemelos que viven con los Moreau, pero que probablemente sean el resultado de la relación incestuosa entre Max y su hermana Una. El poema épico ‘’Orlando Furioso’’ está marcado por un tema de amor y locura, mientras que la leyenda de ‘’Tristán e Isolda’’ narra la historia de un amor imposible, dos temas que pueden ser encontrados en ‘’Las Benévolas’’.
 ***
