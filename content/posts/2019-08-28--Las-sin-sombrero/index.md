@@ -1,5 +1,5 @@
 ---
-title: 28/8/2019 - Las sin sombrero
+title: 2019/08/28 - Las sin sombrero
 subTitle: Balló, Tània
 category: "seleccionado"
 cover: Las-sin-sombrero.jpg

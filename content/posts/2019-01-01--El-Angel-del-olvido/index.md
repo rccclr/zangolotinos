@@ -1,5 +1,5 @@
 ---
-title: 2019/09/?? El ángel del olvido
+title: 2019/09/?? - El ángel del olvido
 subTitle: Haderlap, Maja
 category: "Selecionado"
 cover: El-angel-del-olvido.jpg
