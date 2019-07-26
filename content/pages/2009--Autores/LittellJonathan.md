@@ -1,0 +1,16 @@
+---
+title: Littell, Jonathan
+menuTitle: Littell, Jonathan
+---
+***
+### Littell, Jonathan - 1967 - Estadounidense - Nueva York
+!["Imagen no encontrada"](LittellJonathan.jpg)
+
+Nacido en una familia de origen judío lituana, emigrada a Estados Unidos a finales del Siglo XIX, es hijo del escritor Robert Littell. Hoy en día reside en Barcelona junto a su esposa belga y sus dos hijas.[cita requerida] Su infancia transcurrió en Francia, donde su padre trabajaba como corresponsal de prensa y sólo dejó este país para ingresar en la Universidad de Yale tras concluir sus estudios de bachillerato en el Liceo Fenelón en 1985.
+
+A pesar de que su familia no vivió de modo directo el destino que tuvieron los judíos en Europa, Jonathan Littell creció con esta historia, que se convirtió en el tema central de su primera obra. Marcado también durante su infancia por la guerra de Vietnam, se trasladó, después de haber pasado tres años en Yale, a los Balcanes, que en ese momento estaban en guerra. Se dedica a acciones humanitarias en el seno de la ONG Acción contra el hambre en la que trabajó durante siete años, particularmente en Bosnia-Herzegovina, pero también en otros muchos lugares del mundo como Chechenia, Afganistán, el Congo e incluso Moscú. En 2001, decide cesar en su labor humanitaria y se dedica de lleno a escribir su primera novela, Las Benévolas ("Les Bienveillantes"), un amplio e impresionante fresco sobre la Segunda Guerra Mundial y el Frente del Este, que adopta la forma de las memorias imaginarias de un culto oficial de las SS llamado Maximilien Aue. El libro ganó el premio Goncourt de 2006, y ha sido y sigue siendo un gran (y polémico) acontecimiento literario. Propuesto a cuatro editores franceses distintos a través de un agente literario británico, el manuscrito fue rechazado por Calman-Lévy, y aceptado por Gallimard incluso antes de que los otros dos hubieran contestado. Uno de los hilos conductores del libro es el mito de Orestes, de ahí el título: Las Benévolas, que se mencionan además de forma explícita en la última línea del libro, en la frase: "Las Benévolas habían dado con mi rastro.", Las Benévolas son las Euménides -que dan título a la obra de Esquilo-, la otra cara de las Erinias, o las Furias, que en la Antigüedad perseguían a los criminales. Se las nombra en el título y en la última frase, pero aparecen durante buena parte del libro encarnadas en Clemens y Weser, los dos policías de la Kripo que persiguen tenazmente a Max Aue.
+
+Su anterior y única obra Bad Voltage apareció en 1989 en la editorial Signet Book. Aparecen en este libro muchas referencias a Francia y a autores como Jean Genet y Charles Baudelaire, así como a la ciudad de París. Además, habla en varias ocasiones de las canteras y catacumbas de París. Jonathan Littell, que en el momento de escribir esa novela contaba sólo con 22 años, escribió un ensayo de ciencia ficción que se desarrollaba en el universo Cyberpunk.
+
+También publicó en 2006 un largo y detallado informe acerca de los Servicios Secretos de la Federación Rusa entre 1991 y 2005 The Security Organs of the Russian Federation - A Brief History 1991-2005 disponible gratuitamente (en inglés) en Internet.
+***
