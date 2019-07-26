@@ -4,8 +4,8 @@ subTitle: Mankell, Henning
 category: "Recomendado"
 cover: Arenas-movedizas.jpg
 ---
-!["Imagen no encontrada"](Arenas-movedizas.jpg)
 Conoce quién es [Mankell, Henning] (../Autores/MankellHenning/)
+!["Imagen no encontrada"](Arenas-movedizas.jpg)
 |Título|Autor/a|Género|Editor|Traductor|
 |:-----|:------|:-----|:-----|:--------|
 |Arenas movedizas|Mankell, Henning|Narrativa extranjera, Novela contemporánea, literaria|Tusquets|Carmen Montes Cano|
