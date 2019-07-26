@@ -5,7 +5,7 @@ category: "Seleccionado"
 cover: Las-sin-sombrero.jpg
 ---
 Conoce quién es [Ballo, Tania] (../Autores/BalloTania/)
-!["Imagen no encontrada"](Las-sin-sombrerojpg)
+!["Imagen no encontrada"](Las-sin-sombrero.jpg)
 **__Seleccionado para el club del 28/8/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
