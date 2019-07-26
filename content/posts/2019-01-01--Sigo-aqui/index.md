@@ -1,16 +1,15 @@
 ---
 title: Sigo aquí
 subTitle: O'Farrel, Maggie
-category: "Sugerido"
+category: "Recomendado"
 cover: Sigo-aqui.jpg
 ---
-Conoce quién es [O'Farrel, Maggie] (../Autores/OfarrelMaggie/)
 !["Imagen no encontrada"](Sigo-aqui.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Sigo aquí | O'Farrel, Maggie | Narrativa | Asteroide | Concha Cardeñoso |
-
+***
 |Sinopsis|
 |--------|
 Un parto se complica más allá de lo razonable; a una niña le diagnostican una enfermedad incurable que la tiene encamada durante más de un año; una adolescente es agredida por un extraño mientras pasea por el campo; el avión en el que una joven viaja a Asia se precipita al vacío; una mujer se salva por los pelos de ser atropellada.
