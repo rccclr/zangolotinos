@@ -1,15 +1,15 @@
 ---
 title: Vislumbres de La India
 subTitle: Paz, Octavio
-category: "Sugerido"
+category: "Recomendado"
 cover: Vislumbres-de-la-India.jpg
----
+---Conoce quién es [Paz, Octavio] (../Autores/PazOctavio/)
 !["Imagen no encontrada"](Vislumbres-de-la-India.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Vislumbres de La India | Paz, Octavio | Literatura de viajes | Seix Barral | Original en castellano |
-
+***
 |Sinopsis|
 |--------|
 Si en La llama doble (1993) Paz había atendido a la relación entre amor y erotismo y a su significado último, en Vislumbres de la India llevó a cabo una recapitulación no solo de su periodo de residencia continuada en dicha nación ―ante la que fue embajador desde 1962 hasta 1968― y sus viajes anteriores y posteriores a ella, sino también de la huella cultural, artística, política y filosófica que la India ha dejado en su vivencia, y, más allá o más acá de ello, un examen de qué cosa sea en sí la India.
