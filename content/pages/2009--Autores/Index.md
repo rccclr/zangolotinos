@@ -23,6 +23,10 @@ Conoce quién es [Hadjadj, Fabrice] (../HadjadjFabrice/)
 !["Imagen no encontrada"](LehmannRosamond.jpg)
 Conoce quién es [Lehmann, Rosamons] (../LehmannRosamond/)
 ***
+### Mankell, Henning - 1948 - Suecia - Estocolmo
+!["Imagen no encontrada"](MankellHenning.jpg)
+Conoce quién es [Mankell, Henning] (../MankellHenning/)
+***
 ### O'Farrel, Maggie - 1972 - Irlandesa - Coleraine 
 !["Imagen no encontrada"](OFarrelMaggie.jpg)
 Conoce quién es [O'Farrel, Maggie] (../OFarrelMaggie/)
