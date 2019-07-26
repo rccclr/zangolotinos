@@ -13,19 +13,31 @@ Conoce quién es [Belmonte, María] (../BelmonteMaria.jpg/)
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
-Conoce quién es [Hadjadj, Fabrice] (../HaderlapMaja.jpg/)
+Conoce quién es [Haderlap, Maja] (../HaderlapMaja.jpg/)
 ***
 ### Hadjadj, Fabrice - 1971 - Francés - Nanterre
 !["Imagen no encontrada"](HadjadjFabrice.jpg)
 Conoce quién es [Hadjadj, Fabrice] (../HadjadjFabrice/)
 ***
+### Landero, Luis - 1948 - Español - Alburquerque (Badajoz)
+!["Imagen no encontrada"](LanderoLuis.jpg)
+Conoce quién es [Landero, Luis] (../LanderoLuis/)
+***
 ### Lehman, Rosamond - 1901 - Inglesa - Bourne End
 !["Imagen no encontrada"](LehmannRosamond.jpg)
 Conoce quién es [Lehmann, Rosamons] (../LehmannRosamond/)
 ***
+### Littell, Jonathan - 1967 - Estadounidense - Nueva York
+!["Imagen no encontrada"](LittellJonathan.jpg)
+Conoce quién es [Lehmann, Rosamons] (../LittellJonathan/)
+***
 ### Mankell, Henning - 1948 - Suecia - Estocolmo
 !["Imagen no encontrada"](MankellHenning.jpg)
 Conoce quién es [Mankell, Henning] (../MankellHenning/)
+***
+### Paz, Octavio - 1914 - Mexicano - México D.F.
+!["Imagen no encontrada"](PazOctavio.jpg)
+Conoce quién es [Paz, Octavio] (../PazOctavio/)
 ***
 ### O'Farrel, Maggie - 1972 - Irlandesa - Coleraine 
 !["Imagen no encontrada"](OFarrelMaggie.jpg)
