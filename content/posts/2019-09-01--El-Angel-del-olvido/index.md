@@ -2,9 +2,9 @@
 title: El ángel del olvido
 subTitle: Haderlap, Maja
 category: "Recomendado"
-cover: El-Angel-del-olvido.jpg
+cover: El-angel-del-olvido.jpg
 ---
-!["Imagen no encontrada"](El-Angel-del-olvido.jpg)
+!["Imagen no encontrada"](El-angel-del-olvido.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
