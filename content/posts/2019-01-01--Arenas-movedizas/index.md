@@ -1,7 +1,7 @@
 ---
-title: Arenas movedizas
+title: Sugerido - Arenas movedizas
 subTitle: Mankell, Henning
-category: "Recomendado"
+category: "Sugerido"
 cover: Arenas-Movedizas.jpg
 ---
 !["Imagen no encontrada"](Arenas-Movedizas.jpg)

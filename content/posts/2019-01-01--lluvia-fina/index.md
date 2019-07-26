@@ -1,7 +1,7 @@
 ---
 title: Lluvia fina
 subTitle: Landero, Luis
-category: "Recomendado"
+category: "Sugerido"
 cover: Lluvia-fina.jpg
 ---
 !["Imagen no encontrada"](Lluvia-fina.jpg)

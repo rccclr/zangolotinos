@@ -1,7 +1,7 @@
 ---
 title: Sigo aquí
 subTitle: O'Farrel, Maggie
-category: "Recomendado"
+category: "Sugerido"
 cover: Sigo-aqui.jpg
 ---
 !["Imagen no encontrada"](Sigo-aqui.jpg)

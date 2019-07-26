@@ -1,7 +1,7 @@
 ---
-title: Inmersión (Un sendero en la nieve)
+title: Sugerido - Inmersión (Un sendero en la nieve)
 subTitle: Chukovskaia, Lidia
-category: "Recomendado"
+category: "Sugerido"
 cover: Inmersion-un-sendero-en-la-nieve.jpg
 ---
 !["Imagen no encontrada"](Inmersion-un-sendero-en-la-nieve.jpg)

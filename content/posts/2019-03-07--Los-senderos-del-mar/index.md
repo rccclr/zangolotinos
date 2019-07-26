@@ -1,7 +1,7 @@
 ---
 title: 2019/03/07 - Los senderos del mar
 subTitle: Belmonte, María
-category: "Seleccionado"
+category: "Sugerido"
 cover: Los-senderos-del-mar.jpg
 ---
 Conoce quién es [Belmonte, María] (../Autores/BelmonteMaria/)
