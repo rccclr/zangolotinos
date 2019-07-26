@@ -4,7 +4,7 @@ subTitle: Belmonte, María
 category: "seleccionado"
 cover: Los-senderos-del-mar.jpg
 ---
-Conoce quién es [Belmonte, María] (../Autores/BelmonteMaría/)
+Conoce quién es [Belmonte, María] (../Autores/BelmonteMaria/)
 !["Imagen no encontrada"](Los-senderos-del-mar.jpg)
 **__Seleccionado para el club del 14/5/2019__**
 
