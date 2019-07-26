@@ -1,7 +1,7 @@
 ---
 title: 2019/08/28 - Las sin sombrero
 subTitle: Balló, Tània
-category: "seleccionado"
+category: "Seleccionado"
 cover: Las-sin-sombrero.jpg
 ---
 Conoce quién es [Ballo, Tania] (../Autores/BalloTania/)

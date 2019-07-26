@@ -1,7 +1,7 @@
 ---
 title: 2019/06/13 - Las hijas de otros hombres
 subTitle: Stern, Richard
-category: "seleccionado"
+category: "Seleccionado"
 cover: Las-hijas-de-otros-hombres.jpg
 ---
 Conoce quién es [Stern, Richard] (../Autores/SternRichard/)

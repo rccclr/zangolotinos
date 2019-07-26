@@ -1,7 +1,7 @@
 ---
 title: 2019/04/02 - Invierno
 subTitle: Valgañon, Elvira
-category: "seleccionado"
+category: "Seleccionado"
 cover: Invierno.jpg
 ---
 Conoce quién es [Valgañon, Elvira] (../Autores/ValganonElvira/)
