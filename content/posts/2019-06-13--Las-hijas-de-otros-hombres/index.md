@@ -1,5 +1,5 @@
 ---
-title: Las hijas de otros hombres
+title: 2019/06/13 - Las hijas de otros hombres
 subTitle: Stern, Richard
 category: "seleccionado"
 cover: Las-hijas-de-otros-hombres.jpg

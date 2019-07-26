@@ -1,5 +1,5 @@
 ---
-title: Vestidas para un baile en la nieve
+title: 2019/06/20 - Vestidas para un baile en la nieve
 subTitle: Zgustová, Monika
 category: "seleccionado"
 cover: Vestidas-para-un-baile-en-la-nieve.jpg
