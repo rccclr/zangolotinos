@@ -11,7 +11,7 @@ Conoce quién es [Ward, Jesmyn] (../Autores/WardJesmyn/)
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 La canción de los vivos y los muertos | Ward, Jesmyn | Novela contemporánea | Sexto piso | Francisco González López|
-***
+
 |Sinopsis|
 |--------|
 La novela ganadora del National Book Award 2017 que se ha convertido en un fenómeno literario para los lectores y la crítica, que la citó como una de las novelas del año.

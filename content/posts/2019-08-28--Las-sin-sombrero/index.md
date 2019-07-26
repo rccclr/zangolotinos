@@ -11,7 +11,7 @@ Conoce quién es [Ballo, Tania] (../Autores/BalloTania/)
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Las sin sombrero (I) | Balló, Tània | Historia | Booket | Original en castellano|
-***
+
 |Sinopsis|
 |--------|
 Este libro recupera la memoria y los avatares de varias mujeres, artistas y pensadoras de la generación del 27, cuyo legado resulta determinante en la historia de nuestro país, al igual que el de sus compañeros pertenecientes a esa ineludible generación literaria. 

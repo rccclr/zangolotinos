@@ -9,7 +9,7 @@ cover: El-angel-del-olvido.jpg
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 El ángel del olvido | Haderlap, Maja | Narrativa autores extranjeros | Periférica |  José Aníbal Campos |
-***
+
 |Sinopsis|
 |--------|
 «Una historia llena de fuerza.» Peter Turrini, News

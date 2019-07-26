@@ -9,7 +9,7 @@ cover: Vana-respuesta.jpg
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Vana respuesta | Lehmann, Rosamond | Narrativa | Errata Naturae | Regina López Muñoz |
-***
+
 |Sinopsis|
 |--------|
 Vana respuesta narra la educación sentimental de Judith Earle —hija única de un padre académico y una madre perteneciente a la alta sociedad—, que vive recluida en una gran casa en el valle del Támesis. La mansión vecina está ocupada, esporádicamente, por la familia Fyfe, cinco primos que aparecen en la solitaria vida de la niña y adolescente Judith como figuras de un sueño: misteriosos y llenos de glamour. Más tarde, cuando Judith estudie en la Universidad de Cambridge, continuará en contacto con algunos de ellos y la amistad infantil se deslizará hacia los romances de juventud. Pero, entonces, una relación más importante —y escandalosa en aquella época— llegará a su vida…

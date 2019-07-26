@@ -11,7 +11,7 @@ Conoce quién es [Valgañon, Elvira] (../Autores/ValganonElvira/)
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
 Invierno | Valgañon, Elvira | Novela contemporánea | Pepitas de calabaza | Original en castellano|
-***
+
 |Sinopsis|
 |--------|
 A las puertas del invierno de 1809, un soldado escapa de las filas del ejército napoleónico porque no fue a la guerra para matar civiles. El desertor, moribundo, es acogido en un pequeño pueblo de la sierra hasta que… Vidas y secretos, pasiones calladas y esperanzas ciegas se cruzan durante más de un siglo y medio en las calles y los prados de ese pequeño pueblo sin otra magia (a pesar de la casa encantada o de un espantapájaros que trata de comprender el mundo) que la vida; un lugar, casas, plazas, bosques, cielo, cuevas, donde el aire huele a nieve y a cristales de escarcha, donde siempre son largos los inviernos.
