@@ -27,6 +27,6 @@ module.exports = {
   authorSocialLinks: [
     { name: "github", url: "https://github.com/rccclr/zangolotinos" },
     { name: "twitter", url: "https://twitter.com/rccclr" },
-    { name: "facebook", url: "https://www.facebook.com/groups/359571744729090/" }
+    { name: "facebook", url: "https://www.facebook.com/groups/Zangolotinos/" }
   ]
 };
