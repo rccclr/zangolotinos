@@ -3,7 +3,7 @@ title: Preguntas frecuentes
 ---
 |Periodicidad del club|
 |---------------------|
-Lo habitual es que nos una vez por mes. 
+Lo habitual es que nos juntamos una vez por mes. 
 
 |Hora y duración|
 |---------------------|
