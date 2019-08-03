@@ -1,7 +1,7 @@
 ---
 title: Vana respuesta
 subTitle: Lehmann, Rosamond
-category: "Recomendado"
+category: "Sugerido"
 cover: Vana-respuesta.jpg
 ---
 Conoce quién es [Lehmann, Rosamond] (../Autores/LehmannRosamond/)
