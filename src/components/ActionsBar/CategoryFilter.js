@@ -28,7 +28,7 @@ const styles = theme => ({
 
 class CategoryFilter extends React.Component {
   state = {
-    open: false
+    open: true
   };
 
   componentWillUnmount() {
