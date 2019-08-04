@@ -4,7 +4,8 @@ menuTitle: Libros seleccionados
 ---
 ***
 ## 2019/12/??
-Detalle de [Las Benévolas] (../Las-benevolas/)
+[La Benévolas] (../Las-benevolas/)
 ***
 ## 2019/09/??
-Detalle de [Las Benévolas] (../El-angel-del-olvido/)
+[El ángel del olvido] (../El-angel-del-olvido/)
+***
