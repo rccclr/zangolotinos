@@ -4,6 +4,7 @@ menuTitle: Libros seleccionados
 ---
 ***
 ## 2019/12/??
-!["Imagen no encontrada"](Las-benevolas.jpg)
 Detalle de [Las Benévolas] (../Las-benevolas/)
 ***
+## 2019/09/??
+Detalle de [Las Benévolas] (../El-angel-del-olvido/)
