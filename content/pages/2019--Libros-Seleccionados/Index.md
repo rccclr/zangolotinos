@@ -5,7 +5,7 @@ menuTitle: Libros seleccionados
 ***
 ## 2019/12/??
 !["Imagen no encontrada"](Las-benevolas.jpg)
-Detalle de [Las Benévolas] (../Las-benevolas.jpg/)
+Detalle de [Las Benévolas] (../Las-benevolas.md/)
 ***
 ### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
 !["Imagen no encontrada"](BelmonteMaria.jpg)
