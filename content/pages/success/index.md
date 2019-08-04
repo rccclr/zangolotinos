@@ -2,4 +2,4 @@
 title: Success
 ---
 
-Thank you. I will answer to the message as soon as possible.
+Gracias. Revisaremos tu eMail y te responderemos lo antes posible.
