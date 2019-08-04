@@ -5,15 +5,15 @@ menuTitle: Autores
 ***
 ## Balló, Tania - 1977 - Española (Barcelona)
 !["Imagen no encontrada"](BalloTania.jpg)
-Conoce quién es [Balló, Tania] (../BalloTania.jpg/)
+Conoce quién es [Balló, Tania] (../BalloTania/)
 ***
 ### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
 !["Imagen no encontrada"](BelmonteMaria.jpg)
-Conoce quién es [Belmonte, María] (../BelmonteMaria.jpg/)
+Conoce quién es [Belmonte, María] (../BelmonteMaria/)
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
-Conoce quién es [Haderlap, Maja] (../HaderlapMaja.jpg/)
+Conoce quién es [Haderlap, Maja] (../HaderlapMaja/)
 ***
 ### Hadjadj, Fabrice - 1971 - Francés - Nanterre
 !["Imagen no encontrada"](HadjadjFabrice.jpg)
