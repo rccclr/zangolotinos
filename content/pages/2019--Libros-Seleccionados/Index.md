@@ -3,9 +3,9 @@ title: Libros seleccionados
 menuTitle: Libros seleccionados
 ---
 ***
-## Balló, Tania - 1977 - Española (Barcelona)
-!["Imagen no encontrada"](BalloTania.jpg)
-Conoce quién es [Balló, Tania] (../BalloTania.jpg/)
+## 2019/12/??
+!["Imagen no encontrada"](Las-benevolas.jpg)
+Detalle de [Las Benévolas] (../Las-benevolas.jpg/)
 ***
 ### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
 !["Imagen no encontrada"](BelmonteMaria.jpg)
