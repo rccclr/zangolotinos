@@ -4,7 +4,7 @@ subTitle: Landero, Luis
 category: "Recomendado"
 cover: Lluvia-fina.jpg
 ---
-Conoce quién es [Landero, Luis] (../LanderoLuis/)
+Conoce quién es [Landero, Luis] (../Autores/LanderoLuis/)
 !["Imagen no encontrada"](Lluvia-fina.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
