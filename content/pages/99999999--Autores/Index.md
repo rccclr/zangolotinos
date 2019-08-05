@@ -4,58 +4,58 @@ menuTitle: Autores
 ---
 ***
 ## Balló, Tania - 1977 - Española (Barcelona)
-!["Imagen no encontrada"](../99999999--Autores/BalloTania.jpg)
+!["Imagen no encontrada"](../BalloTania.jpg)
 Conoce quién es [Balló, Tania] (Content/Pages/Autores/BalloTania/)
 ***
 ### Belmonte, María - ¿Fecha nacimientro? - Española (Bilbao)
-!["Imagen no encontrada"](../99999999--Autores/BelmonteMaria.jpg)
+!["Imagen no encontrada"](../BelmonteMaria.jpg)
 Conoce quién es [Belmonte, María] (Content/Pages/Autores/BelmonteMaria/)
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
-!["Imagen no encontrada"](../99999999--Autores/HaderlapMaja.jpg)
+!["Imagen no encontrada"](../HaderlapMaja.jpg)
 Conoce quién es [Haderlap, Maja] (Content/Pages/Autores/HaderlapMaja/)
 ***
 ### Hadjadj, Fabrice - 1971 - Francés - Nanterre
-!["Imagen no encontrada"](../99999999--Autores/HadjadjFabrice.jpg)
+!["Imagen no encontrada"](../HadjadjFabrice.jpg)
 Conoce quién es [Hadjadj, Fabrice] (Content/Pages/Autores/HadjadjFabrice/)
 ***
 ### Landero, Luis - 1948 - Español - Alburquerque (Badajoz)
-!["Imagen no encontrada"](../99999999--Autores/LanderoLuis.jpg)
+!["Imagen no encontrada"](../LanderoLuis.jpg)
 Conoce quién es [Landero, Luis] (Content/Pages/Autores/LanderoLuis/)
 ***
 ### Lehman, Rosamond - 1901 - Inglesa - Bourne End
-!["Imagen no encontrada"](../99999999--Autores/LehmannRosamond.jpg)
+!["Imagen no encontrada"](../LehmannRosamond.jpg)
 Conoce quién es [Lehmann, Rosamons] (Content/Pages/Autores/LehmannRosamond/)
 ***
 ### Littell, Jonathan - 1967 - Estadounidense - Nueva York
-!["Imagen no encontrada"](../99999999--Autores/LittellJonathan.jpg)
+!["Imagen no encontrada"](../LittellJonathan.jpg)
 Conoce quién es [Lehmann, Rosamons] (Content/Pages/Autores/LittellJonathan/)
 ***
 ### Mankell, Henning - 1948 - Suecia - Estocolmo
-!["Imagen no encontrada"](../99999999--Autores/MankellHenning.jpg)
+!["Imagen no encontrada"](../MankellHenning.jpg)
 Conoce quién es [Mankell, Henning] (Content/Pages/Autores/MankellHenning/)
 ***
 ### Paz, Octavio - 1914 - Mexicano - México D.F.
-!["Imagen no encontrada"](../99999999--Autores/PazOctavio.jpg)
+!["Imagen no encontrada"](../PazOctavio.jpg)
 Conoce quién es [Paz, Octavio] (Content/Pages/Autores/PazOctavio/)
 ***
 ### O'Farrel, Maggie - 1972 - Irlandesa - Coleraine 
-!["Imagen no encontrada"](../99999999--Autores/OFarrelMaggie.jpg)
+!["Imagen no encontrada"](../OFarrelMaggie.jpg)
 Conoce quién es [O'Farrel, Maggie] (Content/Pages/Autores/OFarrelMaggie/)
 ***
 ### Stern, Richard - 1928 - Estadounidense - Nueva York 
-!["Imagen no encontrada"](../99999999--Autores/SternRichard.jpg)  
+!["Imagen no encontrada"](../SternRichard.jpg)  
 Conoce quién es [Stern, Richard] (Content/Pages/Autores/SternRichard/)
 ***
 ### Valgañón, Elvira - 1977 - Española - Logroño        
-!["Imagen no encontrada"](../99999999--Autores/ValgañonElvira.jpg)                            
+!["Imagen no encontrada"](../ValgañonElvira.jpg)                            
 Conoce quién es [Valgañón, Elvira] (Content/Pages/Autores/ValgañónElvira/)
 ***
 ### Zgustová, Monika - 1957 - Checo-Española (Praga)
-!["Imagen no encontrada"](../99999999--Autores/ZgustovaMonika.jpg)       
+!["Imagen no encontrada"](../ZgustovaMonika.jpg)       
 Conoce quién es [Ward, Jesmyn] (Content/Pages/Autores/ZgustovaMonika/)
 ***
 ### Ward, Jesmyn - 1977 - Estadounidense
-!["Imagen no encontrada"](../99999999--Autores/WardJesmyn.jpg)       
+!["Imagen no encontrada"](../WardJesmyn.jpg)       
 Conoce quién es [Ward, Jesmyn] (Content/Pages/Autores/WardJesmyn/)
 ***
