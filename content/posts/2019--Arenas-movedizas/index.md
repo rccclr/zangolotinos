@@ -4,7 +4,7 @@ subTitle: Mankell, Henning
 category: "Recomendado"
 cover: Arenas-movedizas.jpg
 ---
-Conoce quién es [Mankell, Henning] (../99999999--Autores/MankellHenning/)
+Conoce quién es [Mankell, Henning]: (../content/pages/99999999--Autores/MankellHenning/)
 !["Imagen no encontrada"](Arenas-movedizas.jpg)
 
 |Título|Autor/a|Género|Editor|Traductor|
