@@ -1,9 +1,9 @@
 ---
 title: Lehmann, Rosamond
-menuTitle: Lehman, Rosamond
+menuTitle: Lehmann, Rosamond
 ---
 ***
-### Lehman, Rosamond - 1901 - Inglesa - Bourne End
+### Lehmann, Rosamond - 1901 - Inglesa - Bourne End
 !["Imagen no encontrada"](LehmannRosamond.jpg)
 Rosamond Lehmann nació en Bourne End, Buckinghamshire, La segunda de cuatro hijos de Rudolph Chambers Lehmann (1856–1929) y su esposa estadounidense, Alice Mary Davis (1873–1956), de Nueva Inglaterra. El padre de Rosamond fue un diputado liberal, fundador de la revista Granta y editor de Daily News. Su hermana mayor era Helen Chambers Lehmann (1899–1985), y su hermana menor era la actriz Beatrix Lehmann (1903–1979). Su hermano menor era John Lehmann (1907–1989), el escritor y editor. El dramaturgo estadounidense Owen Davis era su primo, y su bisabuelo Robert Chambers fundó el Diccionario Chambers. Su tío abuelo fue el artista Rudolf Lehmann.
 Educada en casa, en 1919 ganó una beca para Girton College, Cambridge. Se graduó con un título de segunda clase en literatura inglesa (1921) y lenguas modernas y medievales (1922). En diciembre de 1923 se casó con Walter Leslie Runciman (más tarde 2do vizconde Runciman de Doxford) (1900–1989), y la pareja se fue a vivir a Newcastle upon Tyne. Fue un matrimonio infeliz: se separaron en 1927 y se divorciaron más tarde ese año.
