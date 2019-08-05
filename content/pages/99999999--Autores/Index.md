@@ -29,7 +29,7 @@ Conoce quién es [Lehmann, Rosamons] (zangolotinos/content/pages/99999999--Autor
 ***
 ### Littell, Jonathan - 1967 - Estadounidense - Nueva York
 !["Imagen no encontrada"](LittellJonathan.jpg)
-Conoce quién es [Lehmann, Rosamons] (zangolotinos/content/pages/99999999--Autores/LittellJonathan)
+Conoce quién es [Littell, Jonathan] (zangolotinos/content/pages/99999999--Autores/LittellJonathan)
 ***
 ### Mankell, Henning - 1948 - Suecia - Estocolmo
 !["Imagen no encontrada"](MankellHenning.jpg)
