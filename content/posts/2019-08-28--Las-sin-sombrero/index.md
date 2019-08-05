@@ -4,7 +4,7 @@ subTitle: Balló, Tània
 category: "seleccionado"
 cover: Las-sin-sombrero.jpg
 ---
-Conoce quién es [Ballo, Tania] (../Autores/BalloTania/)
+Conoce quién es [Ballo, Tania] (../../Autores/BalloTania/)
 !["Imagen no encontrada"](Las-sin-sombrero.jpg)
 **__Seleccionado para el club de agosto de 2019 (Pendiente día)__**
 

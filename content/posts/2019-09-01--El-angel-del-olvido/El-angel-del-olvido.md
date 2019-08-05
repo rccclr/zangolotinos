@@ -4,7 +4,7 @@ subTitle: Haderlap, Maja
 category: "Recomendado"
 cover: El-angel-del-olvido.jpg
 ---
-Conoce quién es [Haderlap, Maja] (../Autores/HaderlapMaja/)
+Conoce quién es [Haderlap, Maja] (../../Autores/HaderlapMaja/)
 !["Imagen no encontrada"](El-angel-del-olvido.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |

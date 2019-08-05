@@ -4,7 +4,7 @@ subTitle: Lehmann, Rosamond
 category: "Recomendado"
 cover: Vana-respuesta.jpg
 ---
-Conoce quién es [Lehmann, Rosamond] (../LehmannRosamond/)
+Conoce quién es [Lehmann, Rosamond] (../../LehmannRosamond/)
 !["Imagen no encontrada"](Vana-respuesta.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |

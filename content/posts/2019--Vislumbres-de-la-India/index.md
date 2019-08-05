@@ -3,7 +3,7 @@ title: Vislumbres de La India
 subTitle: Paz, Octavio
 category: "Recomendado"
 cover: Vislumbres-de-la-India.jpg
----Conoce quién es [Paz, Octavio] (../PazOctavio/)
+---Conoce quién es [Paz, Octavio] (../../Autores/PazOctavio/)
 !["Imagen no encontrada"](Vislumbres-de-la-India.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
