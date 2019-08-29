@@ -4,6 +4,7 @@ subTitle: Littell, Jonathan
 category: "Seleccionado"
 cover: Las-benevolas.jpg
 ---
+***La fecha del club ara este libro es provisional***
 Conoce quién es [Littell, Jonathan] (../Autores/LittellJonathan/)
 !["Imagen no encontrada"](Las-benevolas.jpg)
 
