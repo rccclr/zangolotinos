@@ -1,10 +1,10 @@
 ---
-title: 2019/09/?? - El ángel del olvido
+title: 2019/09/26 - El ángel del olvido
 subTitle: Haderlap, Maja
 category: "Recomendado"
 cover: El-angel-del-olvido.jpg
 ---
-Conoce quién es [Haderlap, Maja] (../../Autores/HaderlapMaja/)
+Conoce quién es [Haderlap, Maja] (../Autores/HaderlapMaja/)
 !["Imagen no encontrada"](El-angel-del-olvido.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
