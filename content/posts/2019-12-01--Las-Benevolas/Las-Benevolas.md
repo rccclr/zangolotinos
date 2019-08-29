@@ -1,5 +1,5 @@
 ---
-title: 2019/12/12 (Fecha provisional) - Las Benévolas
+title: 2019/12/12 - Las Benévolas / Fecha provisional
 subTitle: Littell, Jonathan
 category: "Seleccionado"
 cover: Las-benevolas.jpg
