@@ -16,7 +16,7 @@ Conoce quién es [Belmonte, María] (../../Autores/BelmonteMaria/)
 Conoce quién es [Chukovskaia, Lidia] (../../Autores/ChukovskaviaLidia/)
 ***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
-!["Imagen no encontrada"](HaderlapMaja.jpg)
+!["Imagen no encontrada"](HaderlapMaja.jpg)ChukovskaiaLidia
 Conoce quién es [Haderlap, Maja] (../../Autores/HaderlapMaja/)
 ***
 ### Hadjadj, Fabrice - 1971 - Francés - Nanterre
