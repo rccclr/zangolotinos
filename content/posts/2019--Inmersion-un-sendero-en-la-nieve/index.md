@@ -4,6 +4,7 @@ subTitle: Chukovskaia, Lidia
 category: "Recomendado"
 cover: Inmersion-un-sendero-en-la-nieve.jpg
 ---
+Conoce quién es [Chukovskaia, Lidia] (../../Autores/ChukovskaiaLidia/)
 !["Imagen no encontrada"](Inmersion-un-sendero-en-la-nieve.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
