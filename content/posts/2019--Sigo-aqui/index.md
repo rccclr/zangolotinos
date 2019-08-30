@@ -4,6 +4,7 @@ subTitle: O'Farrel, Maggie
 category: "Recomendado"
 cover: Sigo-aqui.jpg
 ---
+Conoce quién es [o'Farrel, Maggie] (../../Autores/OFarrelMaggie/)
 !["Imagen no encontrada"](Sigo-aqui.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
