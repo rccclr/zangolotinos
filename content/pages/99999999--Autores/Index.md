@@ -11,6 +11,10 @@ Conoce quién es [Balló, Tania] (../../Autores/BalloTania/)
 !["Imagen no encontrada"](BelmonteMaria.jpg)
 Conoce quién es [Belmonte, María] (../../Autores/BelmonteMaria/)
 ***
+## Chukovskavia, Lidia - 1907 - Rusa - San Petersburgo
+!["Imagen no encontrada"](ChukovskaviaLidia.jpg)
+Conoce quién es [Haderlap, Maja] (../../Autores/ChukovskaviaLidia/)
+***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
 Conoce quién es [Haderlap, Maja] (../../Autores/HaderlapMaja/)
