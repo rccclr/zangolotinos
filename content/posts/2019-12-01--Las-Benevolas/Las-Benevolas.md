@@ -1,11 +1,11 @@
 ---
-title: 2019/12/12 - Las Benévolas
+title: 2019/12/?? - Las Benévolas
 subTitle: Littell, Jonathan
 category: "Seleccionado"
 cover: Las-benevolas.jpg
 ---
-
 Conoce quién es [Littell, Jonathan] (../Autores/LittellJonathan/)
+
 !["Imagen no encontrada"](Las-benevolas.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
