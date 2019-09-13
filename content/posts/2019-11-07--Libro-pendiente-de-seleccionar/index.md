@@ -4,6 +4,9 @@ subTitle: Seethaler, Robert
 category: "Recomendado"
 cover: Libro-pendiente.jpg
 ---
+Conoce quién es [Seethaler, Robert] (../../Autores/SeethalerRobert/)
+!["Imagen no encontrada"](Libro-pendiente.jpg)
+
 La fecha es provisional.
 El libro estápendiente de selección entre los siguientes dos títulos:
 
