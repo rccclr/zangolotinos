@@ -45,7 +45,7 @@ Conoce quién es [O'Farrel, Maggie] (../Autores/OFarrelMaggie)
 ***
 ### Seethaler, Robert - 1966 - Austriaco - Viena
 !["Imagen no encontrada"](SeethalerRobert.jpg)  
-Conoce quién es [Seethaler, Robert] (../Autores/SeethalerRoberet)
+Conoce quién es [Seethaler, Robert] (../Autores/SeethalerRobert)
 ***
 ### Stern, Richard - 1928 - Estadounidense - Nueva York 
 !["Imagen no encontrada"](SternRichard.jpg)  
