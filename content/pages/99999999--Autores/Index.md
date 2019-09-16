@@ -47,6 +47,10 @@ Conoce quién es [O'Farrel, Maggie] (../OFarrelMaggie)
 !["Imagen no encontrada"](SeethalerRobert.jpg)  
 Conoce quién es [Seethaler, Robert] (../SeethalerRobert)
 ***
+### Schwarz, Geraldine - 1974 - Francesa - Estrasburgo
+!["Imagen no encontrada"](SchwarzGeraldine.jpg)  
+Conoce quién es [Schwarz, Geraldine] (../SchwarzGeraldine)
+***
 ### Stern, Richard - 1928 - Estadounidense - Nueva York 
 !["Imagen no encontrada"](SternRichard.jpg)  
 Conoce quién es [Stern, Richard] (../SternRichard)
