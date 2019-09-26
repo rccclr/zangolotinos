@@ -1,15 +1,15 @@
 ---
 title: 2019/11/07 - Cervantes-para-cabras-Marx-para-ovejas
-subTitle: Santiago Chiquero, Pablo
+subTitle: Chiquero, Pablo Santiago
 category: "Selecionado"
 cover: Cervantes-para-cabras-Marx-para-ovejas.jpg
 ---
-Conoce quién es [Santiago Chiquero, Pablo] (../Autores/SantiagoChiqueroPablo/)
+Conoce quién es [Chiquero, Pablo Santiago] (../Autores/ChiqueroPabloSantiago/)
 !["Imagen no encontrada"](Cervantes-para-cabras-Marx-para-ovejas.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
-Cervantes para cabras, Marx para ovejas | Santiago Chiquero, Pablo | Narrativa española. Novela contemporanea | MACLEIN & PARKER |  Original en castellano |
+Cervantes para cabras, Marx para ovejas | Chiquero, Pablo Santiago | Narrativa española. Novela contemporanea | MACLEIN & PARKER |  Original en castellano |
 
 |Sinopsis|
 |--------|
