@@ -11,6 +11,10 @@ Conoce quién es [Balló, Tania] (../BalloTania)
 !["Imagen no encontrada"](BelmonteMaria.jpg)
 Conoce quién es [Belmonte, María] (../BelmonteMaria)
 ***
+### Chiquero, Pablo Santiago - 1981 - Española (Valenzuela, Córdoba)
+!["Imagen no encontrada"](ChiqueroPabloSantiago.jpg)       
+Conoce quién es [Chiquero, Pablo Santiago] (../ChiqueroPabloSantiago)
+***
 ## Haderlap, Maja - 1961 - Austriaca - Eisenkappel-Vellach
 !["Imagen no encontrada"](HaderlapMaja.jpg)
 Conoce quién es [Haderlap, Maja] (../HaderlapMaja)
