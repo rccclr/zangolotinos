@@ -1,6 +1,6 @@
 ---
-title: Lunguiná, Lilianna
-menuTitle: Lunguiná, Lilianna
+title: Lunguina, Lilianna
+menuTitle: Lunguina, Lilianna
 ---
 ***
 ### Lunguiná, Lilianna - 1920 - Rusa - Moscú

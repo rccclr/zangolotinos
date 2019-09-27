@@ -4,7 +4,7 @@ subTitle: Lunguiná, Lilianna
 category: "Recomendado"
 cover: Version-original.jpg
 ---
-Conoce quién es [Lunguiná, Lilianna] (../../Autores/LunguináLilianna/)
+Conoce quién es [Lunguiná, Lilianna] (../../Autores/LunguinaLilianna/)
 !["Imagen no encontrada"](Version-original.jpg)
 
 Título | Autor/a | Género | Editor | Traductor |
