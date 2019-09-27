@@ -37,7 +37,7 @@ Conoce quién es [Littell, Jonathan] (../LittellJonathan)
 ***
 ### Lunguiná, Lilianna - 1920 - Rusa - Moscú
 !["Imagen no encontrada"](LunguináLilianna.jpg)
-Conoce quién es [Lunguiná, Lilianna] (../LunguináLilianna)
+Conoce quién es [Lunguiná, Lilianna] (../LunguinaLilianna)
 ***
 ### Mankell, Henning - 1948 - Suecia - Estocolmo
 !["Imagen no encontrada"](MankellHenning.jpg)
