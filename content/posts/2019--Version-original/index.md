@@ -1,6 +1,6 @@
 ---
 title: Versión Origina
-subTitle: Lunguiná, Lilianna
+subTitle: Lunguina, Lilianna
 category: "Recomendado"
 cover: Version-original.jpg
 ---
