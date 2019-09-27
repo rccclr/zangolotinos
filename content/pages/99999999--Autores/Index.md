@@ -35,6 +35,10 @@ Conoce quién es [Lehmann, Rosamons] (../LehmannRosamond)
 !["Imagen no encontrada"](LittellJonathan.jpg)
 Conoce quién es [Littell, Jonathan] (../LittellJonathan)
 ***
+### Lunguiná, Lilianna - 1920 - Rusa - Moscú
+!["Imagen no encontrada"](LunguináLilianna.jpg)
+Conoce quién es [Lunguiná, Lilianna] (../LunguináLilianna)
+***
 ### Mankell, Henning - 1948 - Suecia - Estocolmo
 !["Imagen no encontrada"](MankellHenning.jpg)
 Conoce quién es [Mankell, Henning] (../MankellHenning)
