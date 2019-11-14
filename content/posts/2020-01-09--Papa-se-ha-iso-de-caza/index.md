@@ -1,5 +1,5 @@
 ---
-title: 2020-01-09 Papá se ha ido de caza
+title: 2020-01-09 - Papá se ha ido de caza
 subTitle: Penélope Mortimer
 category: "Seleccionado"
 cover: Papa-se-ha-ido-de-caza.jpg
