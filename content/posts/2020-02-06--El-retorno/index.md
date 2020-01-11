@@ -10,7 +10,7 @@ Conoce quién es [Cardoso Dulce María] (../Autores/CardosoDulceMaria/)
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
-El retorno | Cardoso Dulce María | Narrativa extranjera. Novela contemporánea | La Umbría y la Solana | Jrónimo Pizarro |
+El retorno | Cardoso Dulce María | Narrativa extranjera. Novela contemporánea | La Umbría y la Solana | Jerónimo Pizarro |
 ***
 |Sinopsis|
 |--------|
