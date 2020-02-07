@@ -6,7 +6,7 @@ cover: La-Madre-De-Frankenstein.jpg
 ---
 Conoce quién es [Grandes, Almudena] (../Autores/GrandesAlmudena/)
 !["Imagen no encontrada"](La-Madre-De-Frankenstein.jpg)
-**__Seleccionado para el club de marzo de 2020 (Pendiente de fijar el día)**
+**Seleccionado para el club de marzo de 2020 (Pendiente de fijar el día)**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
