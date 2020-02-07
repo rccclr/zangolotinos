@@ -6,7 +6,6 @@ cover: El-verano-en-que-mi-madre-tuvo-los-ojos-verdes.jpg
 ---
 Conoce quién es [Tibuleac, Tatiana] (../Autores/TibuleacTatiana/)
 !["Imagen no encontrada"](El-verano-en-que-mi-madre-tuvo-los-ojos-verdes.jpg)
-**Seleccionado para el club del 5 de marzo de 2020**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
