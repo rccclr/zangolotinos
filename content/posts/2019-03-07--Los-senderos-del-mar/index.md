@@ -6,7 +6,6 @@ cover: Los-senderos-del-mar.jpg
 ---
 Conoce quién es [Belmonte, María] (../../Autores/BelmonteMaria/)
 !["Imagen no encontrada"](Los-senderos-del-mar.jpg)
-**__Seleccionado para el club del 14/5/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
