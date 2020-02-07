@@ -6,7 +6,6 @@ cover: Las-hijas-de-otros-hombres.jpg
 ---
 Conoce quién es [Stern, Richard] (../../Autores/SternRichard/)
 !["Imagen no encontrada"](Las-hijas-de-otros-hombres.jpg)
-**__Seleccionado para el club del 13/6/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
