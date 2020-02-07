@@ -6,7 +6,7 @@ cover: Papa-se-ha-ido-de-caza.jpg
 ---
 Conoce quién es [Mortimer, Penélope] (../Autores/MortimerPenelope/)
 !["Imagen no encontrada"](Papa-se-ha-ido-de-caza.jpg)
-**__Seleccionado para el club del 9 de enero de 2020**
+**Seleccionado para el club del 9 de enero de 2020**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
