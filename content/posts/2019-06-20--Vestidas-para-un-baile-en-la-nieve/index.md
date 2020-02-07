@@ -6,7 +6,6 @@ cover: Vestidas-para-un-baile-en-la-nieve.jpg
 ---
 Conoce quién es [Zgustová, Monika] (../../Autores/ZgustovaMonika/)
 !["Imagen no encontrada"](Vestidas-para-un-baile-en-la-nieve.jpg)
-**__Seleccionado para el club del 19/6/2019__**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
