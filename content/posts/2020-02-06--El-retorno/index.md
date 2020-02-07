@@ -6,7 +6,6 @@ cover: El-retorno.jpg
 ---
 Conoce quién es [Cardoso Dulce María] (../Autores/CardosoDulceMaria/)
 !["Imagen no encontrada"](El-retorno.jpg)
-**Seleccionado para el club del 6 de febrero de 2020**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
