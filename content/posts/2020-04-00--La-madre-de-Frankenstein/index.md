@@ -1,12 +1,11 @@
 ---
-title: 2020-04-00 - La madre de Frankenstein
+title: 2020-04-02 - La madre de Frankenstein
 subTitle: Grandes, Almudena
 category: "Seleccionado"
 cover: La-Madre-De-Frankenstein.jpg
 ---
 Conoce quién es [Grandes, Almudena] (../Autores/GrandesAlmudena/)
 !["Imagen no encontrada"](La-Madre-De-Frankenstein.jpg)
-**Seleccionado para el club de marzo de 2020 (Pendiente fijar día)**
 
 Título | Autor/a | Género | Editor | Traductor |
 ------ | ------- | ------ | ------ | --------- |
