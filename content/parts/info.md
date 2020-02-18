@@ -1,6 +1,6 @@
 ---
 title: info
 ---
-Conoce los estatutos de [Zangolotinos] (../Autores/EstatutosZangolotinos/)
+[ESTATUTOS] (../Autores/EstatutosZangolotinos/)
 
 Zangolotinos. Club de lectura... y más.
