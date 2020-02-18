@@ -1,8 +1,8 @@
 ---
 title: info
 ---
-Conoce nuestros [Estatutos] (../../Autores/EstatutosZangolotinos.pdf/)
-!["Imagen no encontrada"](EstatutosZangolotinos.pdf)
+Conoce los [Estatutos] (EstatutosZangolotinos.pdf) de:
+!["Documento no encontrado"](EstatutosZangolotinos.pdf)
 
 
 Zangolotinos. Club de lectura... y más.
