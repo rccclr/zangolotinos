@@ -1,6 +1,6 @@
 ---
-title: Estatutos del Club de lectura: Zangolotinos
-menuTitle: Estatutos del Club de lectura: Zangolotinos
+title: Estatutos del Club de lectura Zangolotinos
+menuTitle: Estatutos del Club de lectura Zangolotinos
 ---
 ***
 ## Número máximo de componentes del club
