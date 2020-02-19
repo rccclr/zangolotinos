@@ -13,5 +13,4 @@ menuTitle: Club de lectura Zangolotinos (Normas de comportamiento)
     - No se habla del libro antes del Club. Por aquello de no condicionar al resto o sencillamente fastidiarle la lectura. 
 5. **Asistencia**
     - Se ruega un compromiso de asistencia, especialmente cuando vienen invitados.
----
 ***
