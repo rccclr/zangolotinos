@@ -1,6 +1,6 @@
 ---
 title: Club de lectura Zangolotinos (Normas de comportamiento)
-menuTitle:  Normas de comportamiento del Club
+menuTitle: Normas de comportamiento del Club
 ---
 ***
 1. **Número máximo de componentes del club**
