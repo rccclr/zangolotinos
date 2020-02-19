@@ -1,6 +1,6 @@
 ---
 title: info
 ---
-[ESTATUTOS] (../../Autores/EstatutosZangolotinos/)
+[Normas de comportamiento] (../../Autores/EstatutosZangolotinos/)
 
 Zangolotinos. Club de lectura... y más.
