@@ -1,6 +1,6 @@
 ---
-title: Estatutos del Club de lectura Zangolotinos
-menuTitle: Estatutos del Club de lectura Zangolotinos
+title: Club de lectura Zangolotinos (Normas de comportamiento)
+menuTitle: Club de lectura Zangolotinos (Normas de comportamiento)
 ---
 ***
 1. **Número máximo de componentes del club**
