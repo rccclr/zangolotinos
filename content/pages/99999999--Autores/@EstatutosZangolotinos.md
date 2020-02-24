@@ -3,7 +3,7 @@ title: Club de lectura Zangolotinos (Normas de comportamiento)
 menuTitle: Club de lectura Zangolotinos (Normas de comportamiento)
 ---
 ***
-El ***Club de lectura Zangolotinos*** se creo el 7 de mrzo de 2019. Se trata de una actividad cuyo objetivo es **disfrutar** por lo que, al margen del compromiso que adquirimos, la palabra **"normas"** hay que tomarla como un propósito más que como una obligación. 
+El ***Club de lectura Zangolotinos*** se creo el 7 de marzo de 2019. Se trata de una actividad cuyo objetivo es **disfrutar** por lo que, al margen del compromiso que adquirimos, la palabra **"normas"** hay que tomarla como un propósito más que como una obligación. 
 ***
 1. **Número máximo de componentes del club**
     - Con objeto de mantener la dinámica actual del club se limita la composición del club a 12 asistentes.
