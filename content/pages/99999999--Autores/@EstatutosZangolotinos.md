@@ -3,7 +3,7 @@ title: Club de lectura Zangolotinos (Normas de comportamiento)
 menuTitle: Club de lectura Zangolotinos (Normas de comportamiento)
 ---
 ***
-El 7 de marzo de 2019, un grupo de amigos amantes de la lectura decidimos formar un club de lectura al que llamamos ***Club de lectura Zangolotinos*** El espíritu de este club es **disfrutar leyendo y compartiendo lecturas y momentos** por lo que, al margen del compromiso que adquirimos, la palabra **"normas"** hay la tomamos como un propósito más que como una obligación. 
+El 7 de marzo de 2019, un grupo de amigos amantes de la lectura decidimos formar un club de lectura al que llamamos ***Club de lectura Zangolotinos.*** El espíritu de este club es **disfrutar leyendo y compartiendo lecturas y momentos** por lo que, al margen del compromiso que adquirimos, la palabra **"normas"** la tomamos como un propósito más que como una obligación. 
 ***
 1. **Número máximo de componentes del club**
     - Con objeto de mantener la dinámica actual del club se limita la composición del club a un máximo de 12 asistentes.
