@@ -1,5 +1,5 @@
 ---
-title: 2020-04-02 - La madre de Frankenstein
+title: 2020-??-?? - La madre de Frankenstein (Aplazado por precaución ante el coronavirus)
 subTitle: Grandes, Almudena
 category: "Seleccionado"
 cover: La-Madre-De-Frankenstein.jpg
