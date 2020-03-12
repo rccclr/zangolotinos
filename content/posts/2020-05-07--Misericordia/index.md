@@ -1,5 +1,5 @@
 ---
-title: 2020-05-07 - Misericordia
+title: 2020-??-?? - Misericordia (Aplazado por precaución ante el coronavirus)
 subTitle: Pérez galdos, Benito
 category: "Seleccionado"
 cover: Misericordia.jpg
