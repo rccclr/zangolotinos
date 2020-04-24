@@ -1,5 +1,5 @@
 ---
-title: 2019/05/03 - 24 horas en la vida de una mujer (Club Online)
+title: 2020/05/03 - 24 horas en la vida de una mujer (Club Online)
 subTitle: Zweig, Stefan
 category: "Seleccionado"
 cover: 24-horas-en-la-vida-de-una-mujer.jpg
