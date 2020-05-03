@@ -1,5 +1,5 @@
 ---
-title: 2020/04/26 - Sofía Petrovna (Club Online)
+title: 2020/04/26 (18:00 por Skype) - Sofía Petrovna (Club Online)
 subTitle: Chukovskaia, Lidia
 category: "Seleccionado"
 cover: Sofia-Petrovna.jpg
