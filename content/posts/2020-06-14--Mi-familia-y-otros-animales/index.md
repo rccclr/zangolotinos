@@ -1,5 +1,5 @@
 ---
-title: 2020-06-14 (18:00 por Skype) - Mi familia y otros animales
+title: 2020-06-14 (Pendiente hora y modo (Skype o presencial)) - Mi familia y otros animales
 subTitle: Durrell, Gerald
 category: "Seleccionado"
 cover: MiFamiliaYOtrosAnimales.jpg
