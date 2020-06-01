@@ -1,5 +1,5 @@
 ---
-title: Libros sugeridos para próximas lecturas
+title: 9999-99-99 Libros sugeridos para próximas lecturas
 category: "Seleccionado"
 ---
 Quién  | Título  | Autor/a | Información |
