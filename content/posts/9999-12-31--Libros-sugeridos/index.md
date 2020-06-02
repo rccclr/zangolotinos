@@ -2,7 +2,6 @@
 title: En este enlace => VER LIBROS SUGERIDOS PARA FUTUROS CLUBS
 category: "Seleccionado"
 ---
-***
 ### ***En cada club revisaremos estas propuestas, seleccionaremos el siguiente libro y decidiremos cuales quitar de la lista***
 ***
 Quién  | Título  | Autor/a |Fechas propuestas | Información |
