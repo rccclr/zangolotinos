@@ -1,5 +1,5 @@
 ---
-title: Pulsar en este enlace para ==>> Ver libros sugeridos para futuros clubs
+title: En este enlace ==>> VER LIBROS SUGERIDOS PARA FUTUROS CLUBS
 category: "Seleccionado"
 ---
 Quién  | Título  | Autor/a |Fechas propuestas | Información |
