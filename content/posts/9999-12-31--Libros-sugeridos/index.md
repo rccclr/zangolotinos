@@ -1,5 +1,5 @@
 ---
-title: En este enlace ==>> VER LIBROS SUGERIDOS PARA FUTUROS CLUBS
+title: En este enlace => VER LIBROS SUGERIDOS PARA FUTUROS CLUBS
 category: "Seleccionado"
 ---
 Quién  | Título  | Autor/a |Fechas propuestas | Información |
@@ -11,3 +11,4 @@ Ana | Yo serví al rey de Inglaterra | Bohumil Hrabal | 11 de septiembre | https
 Miguel | El hijo del Cesar | John Williams | 9 de octubre | https://edicionespamies.com/libros/el-hijo-de-cesar/ |
 Elena | El jugador | Dostoyevski | 12 de noviembre | https://www.alianzaeditorial.es/libro/bibliotecas-de-autor/el-jugador-fiodor-dostoyevski-9788420641942/ |
 ***
+En cada club revisaremos estas propuestas, seleccionaremos el siguiente libro y decidiremos cuales quitar de la lista.
