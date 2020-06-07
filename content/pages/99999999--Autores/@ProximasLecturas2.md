@@ -6,7 +6,7 @@ menuTitle: Club de lectura Zangolotinos (Próximas lecturas sugeridas)
 |Meses|Fechas propuestas|
 |-----|-----------------|
 |Julio|día 19|
-|Agosto|Nos vanmos de vacaciones|
+|Agosto|Nos vamos de vacaciones|
 |Septiembre|día 11|
 |Octubre|Día 9|
 |Noviembre|Día 12|
