@@ -11,8 +11,7 @@ menuTitle: Club de lectura Zangolotinos (Próximas lecturas sugeridas)
 |Octubre|Día 9|
 |Noviembre|Día 12|
 ### ***Libros propuestos***
-***
-Quién  | Título  | Autor/a | Información |
+Quién  | Título  | Autor/a | Inormación |
 ------ | ------- | ------- | ---------------- | ----------- |
 Carmen | Los fuegos de otoño | Irene Nemirovsky | https://librotea.elpais.com/libros/los-fuegos-de-otono/ |
 Mari Carmen | Bajo la higuera | María Bautista | https://www.grantlibreria.com/libro/bajo-la-higuera_13920 |
