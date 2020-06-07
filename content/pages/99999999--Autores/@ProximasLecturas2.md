@@ -5,6 +5,7 @@ menuTitle: Club de lectura Zangolotinos (Próximas lecturas sugeridas)
 ### ***En cada club revisaremos estas propuestas, seleccionaremos el siguiente libro y decidiremos cuales quitar de la lista***
 ***
 |Meses|Fechas propuestas|
+|-----|-----------------|
 |Julio|día 19|
 |Agosto|Nos vanmos de vacaciones|
 |Septiembre|día 11|
