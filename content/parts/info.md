@@ -3,8 +3,6 @@ title: info
 ---
 [Normas de comportamiento] (../../Autores/@EstatutosZangolotinos/)
 
-[Sugerencias (1) de lecturas para próximos clubs] (../../Autores/@ProximasLecturas/)
-
-[Sugerencias (2) de lecturas para próximos clubs] (../../Autores/@ProximasLecturas2/)
+[Sugerencias de fechas y lecturas para próximos clubs] (../../Autores/@ProximasLecturas/)
 
 Zangolotinos. Club de lectura... y más.
