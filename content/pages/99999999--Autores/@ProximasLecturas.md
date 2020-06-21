@@ -17,4 +17,4 @@ Ana | Salvar el fuego | Guillermo Arriaga | https://www.megustaleer.com/libros/s
 Ana | Trampa 22 | Joseph Heller | https://www.megustaleer.com/libros/trampa-22/MES-107462 |
 Ana | El talento de Mr. Ripley (A pleno sol) | Patricia Highsmith | https://www.anagrama-ed.es/libro/compactos/el-talento-de-mr-ripley/9788433920041/CM_1 |
 Miguel | El hijo del Cesar | John Williams | https://edicionespamies.com/libros/el-hijo-de-cesar/ |
-Elena | El jugador | Dostoyevski | https://www.alianzaeditorial.es/libro/bibliotecas-de-autor/el-jugador-fiodor-dostoyevski-9788420641942/ 
+Elena | El jugador | Dostoyevski | https://www.alianzaeditorial.es/libro/bibliotecas-de-autor/el-jugador-fiodor-dostoyevski-9788420641942/ |
