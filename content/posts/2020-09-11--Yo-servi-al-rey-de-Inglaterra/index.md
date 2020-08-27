@@ -1,5 +1,5 @@
 ---
-title: 2020-09-11 (Pendiente por Skype o presencial) - Yo serví al rey de Inglaterra
+title: 2020-09-13 (18:00 por Skype) - Yo serví al rey de Inglaterra
 subTitle: Hrabal, Bohumil
 category: "Seleccionado"
 cover: YoServiAlReyDeInglaterra.jpg
