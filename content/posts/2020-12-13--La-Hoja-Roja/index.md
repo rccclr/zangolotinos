@@ -1,5 +1,5 @@
 ---
-title: 2020-12-13 (18:00 por Skype) - 
+title: 2020-12-13 (18:00 por Skype) - La hoja roja
 subTitle: Delibes, Miguel
 category: "Seleccionado"
 cover: LaHojaRoja.jpg
