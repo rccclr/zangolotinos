@@ -2,9 +2,9 @@
 title: 2020-12-22 (09:00 por la tele) - A ver esta vez
 subTitle: Lotería Navidad Zangolotinos
 category: "Seleccionado"
-cover: LoteríaNavidad.jpg
+cover: LoteriaNavidad.jpg
 ---
-!["Imagen no encontrada"](LoteríaNavidad.jpg)
+!["Imagen no encontrada"](LoteriaNavidad.jpg)
 ***
 |Sinopsis|
 |--------|
