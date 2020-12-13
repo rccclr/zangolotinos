@@ -4,7 +4,7 @@ menuTitle: Towels, Amor
 ---
 ***
 ### Towels, Amor - 1964 - Boston Massachusetts (Estados Unidos)
-!["Imagen no encontrada"](TibuleacTatiana.jpg)  
+!["Imagen no encontrada"](TowelsAmor.jpg)  
 Towles nació y se crió en Boston, Massachusetts. Se graduó de Yale y recibió una maestría en inglés en la Universidad de Stanford, donde fue becario de Scowcroft. Cuando Towles tenía 10 años, arrojó una botella con un mensaje al Océano Atlántico. Varias semanas después, recibió una carta de Harrison Salisbury, que entonces era el editor en jefe de The New York Times. Towles y Salisbury mantuvieron correspondencia durante muchos años después.
 Después de graduarse de la Universidad de Yale Towles iba a ir a enseñar en China con una beca de dos años de la Asociación de Yale China. Sin embargo, se canceló abruptamente debido a la represión de la Plaza Tiananmen en 1989.
 
