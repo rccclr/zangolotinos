@@ -1,5 +1,5 @@
 ---
-title: 2020-01-24 (18:00 por Skype) - Un vcaballero en Moscú
+title: 2020-01-24 (18:00 por Skype) - Un caballero en Moscú
 subTitle: Towels, Amor
 category: "Seleccionado"
 cover: UnCaballeroEnMoscu.jpg
@@ -13,7 +13,7 @@ Un caballero en Moscú | Towels, Amor | Fición histórica  | Salamandra | Gemma
 ***
 |Sinopsis|
 |--------|
-A leksandr Rostov es un aristócrata que tuvo la oportunidad de escapar de Rusia después de la Revolución, pero decidió volver a su país, al que amaba por encima de todo. A su regreso, se instaló en el famoso Hotel Metropol, el más cosmopolita y prestigioso de Moscú, donde vivió cuatro años, de 1918 hasta 1922, cuando fue detenido por la Cheka y sometido a un juicio en el que todo apuntaba a que se le iba a condenar a muerte por estar su familia vinculada al régimen zarista. Sin embargo, como adquirió fama durante la Revolución por ser el autor de un famoso poema, le perdonaron la vida pero lo condenaron a vivir desde entonces recluido en el Metropol. Abandonó su lujosa suite y fue instalado en un olvidado y minúsculo desván.
+Aleksandr Rostov es un aristócrata que tuvo la oportunidad de escapar de Rusia después de la Revolución, pero decidió volver a su país, al que amaba por encima de todo. A su regreso, se instaló en el famoso Hotel Metropol, el más cosmopolita y prestigioso de Moscú, donde vivió cuatro años, de 1918 hasta 1922, cuando fue detenido por la Cheka y sometido a un juicio en el que todo apuntaba a que se le iba a condenar a muerte por estar su familia vinculada al régimen zarista. Sin embargo, como adquirió fama durante la Revolución por ser el autor de un famoso poema, le perdonaron la vida pero lo condenaron a vivir desde entonces recluido en el Metropol. Abandonó su lujosa suite y fue instalado en un olvidado y minúsculo desván.
 
 Desde entonces, su vida está vinculada a la del hotel. Mantiene sus hábitos refinados y cultos. Es un experto en música, literatura y, sobre todo, gastronomía. Lleva una vida metódica. Frecuenta los restaurantes y bares y es muy apreciado por todos los trabajadores del hotel. Años después, es incluso contratado como maître del restaurante más lujoso. El conde se convierte en un testigo privilegiado del microcosmos del Metropol, símbolo y resumen también de la vida soviética durante cuatro décadas.
 
