@@ -15,4 +15,3 @@ Elena | Rewind | Juan Tallón | https://www.anagrama-ed.es/libro/narrativas-hisp
 Miguel | Días de penumbras | Elvira Valgañón | http://www.pepitas.net/libro/linea-de-penumbra |
 Ramón | La canción de Salomón | Toni Morrison | https://www.casadellibro.com/libro-la-cancion-de-salomon/9788497932622/947085 |
 Mari Carmen | Los chicos de la Nickel | Colson Whitehead | https://www.penguinrandomhouse.com/books/669904/los-chicos-de-la-nickel--the-nickel-boys-by-colson-whitehead |
-Ramón | Un caballero en Moscú | Amor Towels | https://elpais.com/cultura/2019/01/06/actualidad/1546791023_635633.html |
