@@ -1,15 +1,16 @@
 ---
 title: 2021-02-21 (18:00 por Skype) - El paso siguiente en el baile
-subTitle: Tim, Gautreaux
+subTitle: Gautreaux, Tim
 category: "Seleccionado"
 cover: ElPasoSiguienteEnElBaile.jpg
 ---
-Conoce quién es [Tim, Gautreaux] (../Autores/TimGautreaux)
+Conoce quién es [Gautreaux, Tim] (../Autores/GautreauxTim)
 !["Imagen no encontrada"](ElPasoSiguienteEnElBaile.jpg)
+
 
 Título | Autor/a | Género | Editor | Traducción |
 ------ | ------- | ------ | ------ | --------- |
-El paso siguiente en el baile | Tim, Gautreaux| Fición | La huerta grande | José Gabriel Rodríguez Pazos  |
+El paso siguiente en el baile | Gautreaux, Tim | Fición | La huerta grande | José Gabriel Rodríguez Pazos  |
 ***
 Estará la editora: Phil Camino que es una mujer muy interesante. Para los que conocieron la librería "Los editores" era una de sus propietarias.
 
