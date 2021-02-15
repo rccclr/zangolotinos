@@ -15,9 +15,6 @@ Título | Autor/a | Género | Editor | Traducción |
 ------ | ------- | ------ | ------ | --------- |
 El talento de Mr. Ripley | Highsmith, Patricia | Fición | Anagrama | ¿Jordi Beltrán?  |
 ***
-Tengo dudas respecto al traductor. Dado que ha habido varias ediciones no sé si habrá variación en este dato.
-***
-
 |Sinopsis|
 |--------|
 El talento de Mr. Ripley es una novela de Patricia Highsmith publicada en 1955. Se enmarca dentro del género negro-thriller psicológico y tiene lugar en su mayor parte en Europa. Fue escrita por la autora tras su primer viaje por el continente gracias al dinero ganado con los derechos de la película Extraños en un tren, adaptación de su primera novela homónima. En 1995, la Mystery Writers of America la incluyó en su lista de las cien mejores novelas de misterio de todos los tiempos.
