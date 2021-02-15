@@ -13,7 +13,7 @@ Conoce quién es [Highsmith, Patricia] (../Autores/HighsmithPatricia)
 
 Título | Autor/a | Género | Editor | Traducción |
 ------ | ------- | ------ | ------ | --------- |
-El talento de Mr. Ripley | Highsmith, Patricia | Fición | Anagrama | ¿Jordi Beltrán?  |
+El talento de Mr. Ripley | Highsmith, Patricia | Fición | Anagrama | Jordi Beltrán |
 ***
 |Sinopsis|
 |--------|
