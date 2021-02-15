@@ -13,7 +13,7 @@ Título | Autor/a | Género | Editor | Traducción |
 ------ | ------- | ------ | ------ | --------- |
 El talento de Mr. Ripley | Highsmith, Patricia | Fición | Anagrama | ¿Jordi Beltrán?  |
 ***
-Tengo dudas respecto al traductor. dado que ha habido varias ediciones no sé si habrá variación en este dato.
+Tengo dudas respecto al traductor. Dado que ha habido varias ediciones no sé si habrá variación en este dato.
 ***
 
 |Sinopsis|
