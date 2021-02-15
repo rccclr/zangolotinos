@@ -4,8 +4,7 @@ subTitle: Chiquero, Pablo Santiago
 category: "Selecionado"
 cover: Cervantes-para-cabras-Marx-para-ovejas.jpg
 ---
-Con la participación "sorpresa" de Marisa Santiago Chiquero, hermana del autor.
-
+#### Con la participación "sorpresa" de Marisa Santiago Chiquero, hermana del autor.
 ---
 Conoce quién es [Chiquero, Pablo Santiago] (../Autores/ChiqueroPabloSantiago/)
 !["Imagen no encontrada"](Cervantes-para-cabras-Marx-para-ovejas.jpg)
