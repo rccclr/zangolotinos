@@ -4,7 +4,7 @@ subTitle: Highsmith, Patricia
 category: "Seleccionado"
 cover: ElTalentoDeMrRipley.jpg
 ---
-Participarán Sonia Sánchez Fariña y Pablo Santiago Chiquero (Autor de Cervantes para cabras y Marx para ovejas)
+Participarán Sonia Sánchez Fariña y Pablo Santiago Chiquero (Autor del excelente libro "Cervantes para cabras y Marx para ovejas" el cual fue objeto de nuestra tertulia del 7 de noviembre de 2019)
 ---
 Conoce quién es [Highsmith, Patricia] (../Autores/HighsmithPatricia)
 !["Imagen no encontrada"](ElTalentoDeMrRipley.jpg)
