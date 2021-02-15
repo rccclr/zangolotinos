@@ -4,6 +4,8 @@ subTitle: Gautreaux, Tim
 category: "Seleccionado"
 cover: ElPasoSiguienteEnElBaile.jpg
 ---
+Estará la editora: Phil Camino que es una mujer muy interesante. Para los que conocieron la librería "Los editores" era una de sus propietarias.
+---
 Conoce quién es [Gautreaux, Tim] (../Autores/GautreauxTim)
 !["Imagen no encontrada"](ElPasoSiguienteEnElBaile.jpg)
 
@@ -12,7 +14,6 @@ Título | Autor/a | Género | Editor | Traducción |
 ------ | ------- | ------ | ------ | --------- |
 El paso siguiente en el baile | Gautreaux, Tim | Fición | La huerta grande | José Gabriel Rodríguez Pazos  |
 ***
-Estará la editora: Phil Camino que es una mujer muy interesante. Para los que conocieron la librería "Los editores" era una de sus propietarias.
 
 |Sinopsis|
 |--------|
