@@ -4,7 +4,7 @@ subTitle: Highsmith, Patricia
 category: "Seleccionado"
 cover: ElTalentoDeMrRipley.jpg
 ---
-Participará la editora: Phil Camino que es una mujer muy interesante. Para los que conocieron la librería "Los editores" era una de sus propietarias.
+Participarán Sonia Sánchez Fariña () y Pablo Santiago Chiquero (Autor de Cervantes para cabras y Marx para ovejas)
 ---
 Conoce quién es [Highsmith, Patricia] (../Autores/HighsmithPatricia)
 !["Imagen no encontrada"](ElTalentoDeMrRipley.jpg)
