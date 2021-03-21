@@ -4,7 +4,7 @@ subTitle: Mauro de Vasconcelos, José
 category: "Seleccionado"
 cover: MiPlantaDeNaranjaLima.jpg
 ---  
-Conoce quién es [Mauro de Vasconcelos, José] (../Autores/MauroDeVasconcelosJosé)
+Conoce quién es [Mauro de Vasconcelos, José] (../Autores/MauroDeVasconcelosJose)
 !["Imagen no encontrada"](MiPlantaDeNaranjaLima.jpg)
 
 Título | Autor/a | Género | Editor | Traducción |
