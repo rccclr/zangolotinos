@@ -1,7 +1,7 @@
 ---
 title: 2019/11/07 - Cervantes-para-cabras-Marx-para-ovejas
 subTitle: Chiquero, Pablo Santiago
-category: "Selecionado"
+category: "Seleccionado"
 cover: Cervantes-para-cabras-Marx-para-ovejas.jpg
 ---  
 #### Con la participación "sorpresa" de Marisa Santiago Chiquero, hermana del autor.
