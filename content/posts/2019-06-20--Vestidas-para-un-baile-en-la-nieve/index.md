@@ -1,7 +1,7 @@
 ---
 title: 2019/06/20 - Vestidas para un baile en la nieve
 subTitle: Zgustová, Monika
-category: "seleccionado"
+category: "Seleccionado"
 cover: Vestidas-para-un-baile-en-la-nieve.jpg
 ---
 Conoce quién es [Zgustová, Monika] (../../Autores/ZgustovaMonika/)
