@@ -1,7 +1,7 @@
 ---
 title: 2019/09/26 - El ángel del olvido
 subTitle: Haderlap, Maja
-category: "Selecionado"
+category: "Seleccionado"
 cover: El-angel-del-olvido.jpg
 ---
 Conoce quién es [Haderlap, Maja] (../../Autores/HaderlapMaja/)
