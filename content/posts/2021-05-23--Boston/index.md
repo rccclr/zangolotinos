@@ -4,6 +4,10 @@ subTitle: McEwen, Todd
 category: "Seleccionado"
 cover: Boston.jpg
 ---  
+#### Participarán:
+####    Darío Ochoa Chinchetru (De la editorial AUTOMÁTICA)  
+####    Enrique Maldonado Roldan (Traductor del libro del que hablaremos en esta sesión)  
+---  
 Conoce quién es [McEwen, Todd] (../Autores/McEwenTodd)
 !["Imagen no encontrada"](Boston.jpg)
 
